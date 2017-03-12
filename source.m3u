@@ -1,0 +1,625 @@
+#EXTM3U
+
+#EXTINF:-1 ext_id="rtp1.pt" tvg-logo="https://dl-web.meocloud.pt/dlweb/download/addon%20family/fanart%20e%20icon/icon.png?public=64e41e54-810f-49f4-9cc2-9ecacc48b15c",GENÉRICOS
+Http://google.pt
+
+#EXTINF:-1 ext_id="171"rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rtysxv1466191624.png/small",RTP 1
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/FamiliaIPTV.m3u8
+
+#EXTINF:-1 ext_id="172" tvg-logo="http://www.thelogodb.com/images/media/logo/yvttxv1466191438.png/small",RTP 2
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/FamiliaIPTV.m3u8
+
+#EXTINF:-1 ext_id="173" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/small",SIC (geobloqueado)
+http://live.impresa.pt/live/sic/sic540p.m3u8
+
+#EXTINF:-1 ext_id="173" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/small",SIC
+http://213.228.128.27/hlsl/1/SIC/04.m3u8
+
+#EXTINF:-1 ext_id="173" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/small",SIC (temp)
+http://tvdasogra.com:8880/live/cpolonio/gT8HteJdZp/1673.ts
+
+#EXTINF:-1 ext_id="174" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png/small",TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/FamiliaIPTV.m3u8
+
+#EXTINF:-1 ext_id="413" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/small",SIC NOTÍCIAS (geobloqueado)
+http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
+
+#EXTINF:-1 ext_id="413" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/small",SIC NOTÍCIAS
+http://familiaiptv://213.228.128.27/hlsl/1/SICN/04.m3u8
+
+
+#EXTINF:-1 ext_id="3" tvg-logo="http://www.thelogodb.com/images/media/logo/uvtqyy1461670745.png/small",RTP3
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/FamiliaIPTV.m3u8
+
+#EXTINF:-1 ext_id="113" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png/small",TVI24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/FamiliaIPTV.m3u8
+
+#EXTINF:-1 ext_id="39" tvg-logo="http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png/small",EURONEWS PT
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/27-live.m3u8
+
+#EXTINF:-1 ext_id="CMTV" tvg-logo="https://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png/medium",CMTV
+http://worldcs.info:8080/live/ster/ster/625.m3u8
+
+#EXTINF:-1 ext_id="14" tvg-logo="https://www.thelogodb.com/images/media/logo/ustqwy1436891230.png",SIC RADICAL
+http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
+
+#EXTINF:-1 ext_id="80" tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/small",PORTO CANAL 
+http://213.13.26.11:1935/live/portocanal/FamiliaIPTV.m3u8
+
+#EXTINF:-1 ext_id="347" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png/Small",RTP AÇORES
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/FamiliaIPTV.m3u8
+
+#EXTINF:-1 ext_id="5" tvg-logo="http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png/Small",RTP ÁFRICA
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/FamiliaIPTV.m3u8
+
+#EXTINF:-1 ext_id="5" tvg-logo="http://www.thelogodb.com/images/media/logo/xwquyw1438185975.png/Small",RTP INTERNACIONAL
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpi_5ch120h264.stream/FamiliaIPTV.m3u8
+
+#EXTINF:-1 ext_id="342"tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png/Small",RTP MADEIRA
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/FamiliaIPTV.m3u8
+
+#EXTINF:-1 ext_id="4"tvg-logo="http://www.thelogodb.com/images/media/logo/ysyyxw1438185870.png/Small",RTP MEMÓRIA 
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/FamiliaIPTV.m3u8
+
+#EXTINF:-1 ext_id="rtp1.pt" tvg-logo="https://dl-web.meocloud.pt/dlweb/download/addon%20family/fanart%20e%20icon/icon.png?public=64e41e54-810f-49f4-9cc2-9ecacc48b15c",FILMES
+Http://google.pt
+
+#EXTINF:-1 ext_id="149"tvg-logo="https://www.thelogodb.com/images/media/logo/sxpuvs1436896350.png/medium",TV CINE 1 FULL HD [TESTE]
+http://ptiptv.dyndns.tv:8000/live/facebook/facebook234/351.ts
+
+#EXTINF:-1 ext_id="77"tvg-logo="https://www.thelogodb.com/images/media/logo/rvtxww1436896380.png/medium",TV CINE 4 FULL HD [TESTE]
+http://ptiptv.dyndns.tv:8000/live/facebook/facebook234/352.ts
+
+#EXTINF:-1 ext_id="182"tvg-logo="https://www.thelogodb.com/images/media/logo/wxswvq1433343102.png/medium",AXN HD
+http://ptiptv.dyndns.tv:8000/live/facebook/facebook234/640.ts
+
+#EXTINF:-1 ext_id="107"tvg-logo="https://www.thelogodb.com/images/media/logo/qtturr1433362023.png/medium",FOX HD
+http://ptiptv.dyndns.tv:8000/live/facebook/facebook234/639.ts
+
+
+#EXTINF:-1 ext_id="rtp1.pt" tvg-logo="https://dl-web.meocloud.pt/dlweb/download/addon%20family/fanart%20e%20icon/icon.png?public=64e41e54-810f-49f4-9cc2-9ecacc48b15c",ANIMAÇÃO
+Http://google.pt
+
+#EXTINF:-1 ext_id="27"tvg-logo="https://www.thelogodb.com/images/media/logo/qxqrts1466447152.png/medium",PANDA (Temp)
+http://tvdasogra.com:8880/live/cpolonio/gT8HteJdZp/225.ts
+
+#EXTINF:-1 ext_id="146"tvg-logo="https://www.thelogodb.com/images/media/logo/sqttxp1433353102.png/medium",PANDA BIGS(Temp)
+http://megath.pw:8000/live/JRlxUa7wAi/w1reNtuoMB/1497.ts
+
+#EXTINF:-1 ext_id="193"tvg-logo="https://www.thelogodb.com/images/media/logo/qrqxyp1433430351.png/medium",DISNEY JR(Temp)
+http://tvdasogra.com:8880/live/cpolonio/gT8HteJdZp/218.ts
+
+#EXTINF:-1 ext_id="126"tvg-logo="https://www.thelogodb.com/images/media/logo/yupwrv1435102443.png/medium",JIM JAM(Temp)
+http://megath.pw:8000/live/JRlxUa7wAi/w1reNtuoMB/1499.ts
+
+#EXTINF:-1 ext_id="35"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",BABY TV(Temp)
+http://tvdasogra.com:8880/live/cpolonio/gT8HteJdZp/873.ts
+
+#EXTINF:-1 ext_id="rtp1.pt" tvg-logo="https://dl-web.meocloud.pt/dlweb/download/addon%20family/fanart%20e%20icon/icon.png?public=64e41e54-810f-49f4-9cc2-9ecacc48b15c",DESPORTO
+http://google.pt
+
+#EXTINF:-1 ext_id="151"tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium",SPORT TV 1 HD (temp)
+http://ptiptv.dyndns.tv:8000/live/facebook/facebook234/57.ts
+
+#EXTINF:-1 ext_id="231"tvg-logo="https://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium",Benfica Tv (temp)
+http://tvdasogra.com:8880/live/cpolonio/gT8HteJdZp/558.ts
+
+#EXTINF:-1 ext_id="231"tvg-logo="https://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium",Benfica Tv (temp 2)
+http://ptiptv.dyndns.tv:8000/live/facebook/facebook234/643.ts
+
+#EXTINF:-1 ext_id="408"tvg-logo="http://www.thelogodb.com/images/media/logo/vqrwpt1481664823.png/medium",SPORTTV + HD				 
+acestream://b77a073233900b451e33b334a740ac16f624692b
+
+#EXTINF:-1 ext_id="151"tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium",SPORTTV 1 HD
+acestream://2adeeb1c9c148389ac45606111a74a0ab9bf661b
+
+#EXTINF:-1 ext_id="152"tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png",SPORTTV 2 HD
+acestream://03be839009b74b87429e2969b569022ce8bd1fcb
+
+#EXTINF:-1 ext_id="153"tvg-logo="https://www.thelogodb.com/images/media/logo/wwsuqv1470409839.png/medium",SPORTTV 3 HD
+acestream://470b2611df987f6c22caceee8249f705c351a7e0
+
+#EXTINF:-1 ext_id="153"tvg-logo="https://www.thelogodb.com/images/media/logo/vuytwx1470409983.png/medium",SPORTTV 4 HD
+acestream://97cad444355dfeeb9810834c0c8225c52041f5d3
+
+#EXTINF:-1 ext_id="112"tvg-logo="https://www.thelogodb.com/images/media/logo/uvpqvr1470410094.png/medium",SPORTTV 5
+acestream://b4d0535ed13cd606a1441aaed6a77a7ddfcd6340
+
+#EXTINF:-1 ext_id="rtp1.pt" tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png", Liga Nos jornada 25
+http://google.pt
+
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png",Arenavision 5
+acestream://4e51f9bb6c1487b6f42df052b7f04c05f619c0f3
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png",Arenavision 6
+acestream://05fb57238df275aa70c769ddeffa1476134a3ac1
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png",Arenavision 8 
+acestream://0434cb2607081997f7c9178fc80983ba0b1cf545
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png",Arenavision 9 
+acestream://60145425bd83fbd1db58ebf826fbc9f868404dbd
+
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Arenavision
+Http://google.pt
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 1 
+acestream://81da821717afd34dda8f43a72b11ab4c47bd95c2
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 2 
+acestream://db45a5fdf7dd29d15d7fdddb870db1355c41ae0e
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 3
+acestream://310250124d51961eb852471a42cc835ea070d24d
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 4
+acestream://0d81c3e8d2596a03779a7036afc8bedf9d95e1b6
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 5
+acestream://4e51f9bb6c1487b6f42df052b7f04c05f619c0f3
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 6
+acestream://05fb57238df275aa70c769ddeffa1476134a3ac1
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 7
+acestream://b3e2ce5f977332704a40595905b227fc41261a25
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 8 
+acestream://0434cb2607081997f7c9178fc80983ba0b1cf545
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 9 
+acestream://60145425bd83fbd1db58ebf826fbc9f868404dbd
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 10
+acestream://2ce07891cf43d6fd00f97247bf79de57d67ef78e
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 11
+acestream://c0ef371a7d1d30082f2b4a0d77a0582dbd801a56
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png", Channel 12
+acestream://a1faa5ad1c5a4f864f970fe8e80e44e1595e5f98
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png", Channel 13
+acestream://97526c272bde4cb005fc403ee333a918fbb0099b
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 14
+acestream://33e824547e99310a7ea582a5184d453532958e99
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png", Channel 15
+acestream://f6668f32439de8a1043cce14a03bc305a13a36e9
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 16
+acestream://001c37f0c86220422ee01b873c24f098c835214e
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 17
+acestream://617c0a96a4cff7348bf6842186dcdef119ec7aa5
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 18
+acestream://62cecab8e12d5df9db9077ccd8f16d651c93775f
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 19
+acestream://63d4758ca0aafd2195d89c8493e1bab2a93c8046
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 20
+acestream://ed0eb3c44cd794bf1955bc674b755e04ac46950e
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 21
+acestream://3674a33a6ff886654c99c281279f95c3ef8d3081
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 22
+acestream://778259b56a37efe1ed26536af28bc243ea2f5f31
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 23
+acestream://5cb556cd5ac1e46fd5c97d37d70d741a532d43e7
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 24
+acestream://0df0da6bd5d30854fb1c8048fab20a6b9c2bd196
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 25
+acestream://b7e74c43494c75edfdf5d3ac6b212fc6362717b8
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 26
+acestream://f4d77a80fa28f0a34ded0132dc1952ec328f6998
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 27
+acestream://c63187662f877473d908215ea023807adeba34e2
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 28
+acestream://8cb1007a6f52a556343fdfdf0ae72cd1fad95a5b
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 29
+acestream://d0fa12d12e80c07e7e48a23e7b890c2f2cf2f6dd
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 30
+acestream://2079008ddb5e0e7b45b848bf5dda63d6b600b90b
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.thelogodb.com/images/media/logo/tutyvx1474667310.png/medium",EUROSPORT 1 FR
+acestream://5e8ce8246cdeb0c711079cb45bc435ad80c1f8be
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.thelogodb.com/images/media/logo/xvuxxt1474667338.png/medium",EUROSPORT 2 FR
+acestream://21cfb8e3969c0841f23fdf7a7177ffe48a35eb75
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.thelogodb.com/images/media/logo/tutyvx1474667310.png/medium",EUROSPORT 1 UK
+acestream://3583e22124c68f5c3419345ee948163d82a4fd08
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.thelogodb.com/images/media/logo/xvuxxt1474667338.png/medium",EUROSPORT 2 UK
+acestream://ee151e7bf471ff85ecf45795c835fb8fb77d6ed2
+
+#EXTINF:-1 ext_id="66"tvg-logo="https://www.thelogodb.com/images/media/logo/tsqstw1436894693.png/medium",PFC
+acestream://63a276fe3657bd2ba0ba81f35cbb1be5426cc4ca
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/ruvrus1437612002.png/medium",SPORTV
+acestream://9f62433aaf97d078e35266a67615638fee6387e0
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/rspqxw1437612159.png/medium",SPORTV 2
+acestream://2ac141722340b046a524ff63e19ed9d6f799eab1
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/yuusqs1437612244.png/medium",SPORTV 3
+acestream://e6617659dba3d4dcf5fcf113ec444f33f4654424
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png",FOX SPORT 
+acestream://ba82bd48af57b87aa00d9b0bd2451dcc4391f4b6
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png",FOX SPORT 2
+acestream://12355061ec21ead33f5b393ecd34e2f2399199c0
+
+#EXTINF:-1 ext_id="rtp1.pt" tvg-logo="https://dl-web.meocloud.pt/dlweb/download/addon%20family/fanart%20e%20icon/icon.png?public=64e41e54-810f-49f4-9cc2-9ecacc48b15c",´Música
+http://google.pt
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/wpqwrq1433965505.png/medium",VH1
+acestream://279d53e443f10ca10d0efb23516ce01b4cdf3fd8
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/wrrvup1438373929.png/medium",MTV UK
+acestream://3ebe9cd231fa535224e61813589fcf7b1a0ac293
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/xtrusx1438373976.png/medium",MTV MUSIC UK
+acestream://61904fc4378abd19220171f173f0183f7f39d0ea
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.wmoc2008.fpo.pt/logos/logo_94FM.jpg" type="RADIO",94 FM
+http://195.8.58.150:35022/;stream.mp3
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.amalia.fm/wp-content/uploads/2014/08/radioamalialogo.png" type="RADIO",AMÁLIA
+http://stream.radio.com.pt:9496/stream
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.hiper.fm/wp-content/uploads/2013/10/homepage_hiperfm.png" type="RADIO",HIPER FM
+http://85.25.73.243:10460/;stream/1
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/logo_megafm_new.png" type="RADIO",MEGA FM
+http://19573.live.streamtheworld.com/MEGA_HITSAAC_SC
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.orbital.pt/imagem.php?1454265689194" type="RADIO",Orbital
+http://195.23.85.126:8401/stream/1/
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://weareinsert.com/wp-content/downloads/10713003_440510956096457_8754341076449661035_n.jpg" type="RADIO",RADAR
+http://stream.radio.com.pt:8497/stream
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://player.streamguys.com/rastamusic/sgplayer/include/assets/img/album_art.jpg" type="RADIO",REGGAE RADIO 808
+http://ais.rastamusic.com/rastamusic.mp3?listenerid=1c2e2cdba8ec5a7d533291b2b3611905&awparams=playerid%3ASGplayer%3BcompanionAds%3Atrue&amsparams=playerid%3ASGplayer%3Bskey%3A1487436314419%3B
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://rr.sapo.pt/img/logoRRBlue.png" type="RADIO",RENASCENÇA
+http://rr.sapo.pt/videojs/black.mp4
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/15803163-276402364-logoRFM.jpg" type="RADIO",RFM
+http://19573.live.streamtheworld.com/RFMAAC_SC
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://cidade.iol.pt/images/logo.png" type="RADIO",CIDADE Fm
+http://mcrscast.mcr.iol.pt/cidadefm?rnd=57029.37831225265
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2008/09/logo80RFMPlayer.png" type="RADIO",RFM 80
+http://19593.live.streamtheworld.com/GR80SRFMAAC_SC
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2012/11/superfm.jpg" type="RADIO",SUPER FM
+http://94.23.76.235:9956/;stream/1
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.ruc.pt/wp-content/themes/ruc/images/logo.png" type="RADIO",Rádio Universidade de Coimbra
+http://ruc2.cidadedecoimbra.com:8000/
+
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://horrorpediadotcom.files.wordpress.com/2016/02/emelie-film-poster.png?w=343&h=467" type="MOVIE",Emelie
+https://lh3.googleusercontent.com/aCgORx1qNVCU44u8hMN4U-CPEfDJURh6odJ5O_UWqrpKKo7AQopanzGzmlwWgTPXtIhvpCnA=m22
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://t3.gstatic.com/images?q=tbn:ANd9GcQQloplsKd84kuaNOuicq7jHt4qzCtAI_DNmzK31eSFZcVkX3Wu" type="MOVIE",Nina
+https://lh3.googleusercontent.com/nH4WcmwSj-Fd93N1fraUxL7hMtAeT8jq708gz9DlSO2z938fODS3ochwlX-N9xX9yidOYQun=m22
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img2.acsta.net/newsv7/16/04/26/22/24/190958.jpg" type="MOVIE",Cell
+https://lh3.googleusercontent.com/qLEq2emBDUz1po7NaNCU_dm5EuPZBb2WzNIfOA9c1aaTKFFXnk8R50CayPJWKSv6qsNXUU7c=m22
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img3.acsta.net/pictures/16/03/23/16/26/007949.jpg" type="MOVIE",Vizinhos 2
+https://lh3.googleusercontent.com/-VfluLbnBKhMspcThuBoSsoQDj9Ha2Vnb4uaInYeNkhKSTNLymX49wnowISh9RTXTYjMhu8n=m22
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.gstatic.com/tv/thumb/movieposters/12966120/p12966120_p_v8_aa.jpg" type="MOVIE", Electra Woman and Dyna Girl
+https://lh3.googleusercontent.com/NeYOEA5aZZuwV2xbsu-ESIfC-6WBQvwDL3a4cuGk6THdTEKs4hufKVbXN_bY2oGg0R_XsNGE=m22
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.filmesonlinegratis.com/wp-content/uploads/2016/10/capa-7.png" type="MOVIE",Approaching The Unknown
+https://lh3.googleusercontent.com/7kW6BoEIfRlrXx7iGb_WE7CrGvL08l-APMtRg8DHk3Ju9A13e5mvWFUB1UWEmuV4AuWuukiH=m22
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcSpqUwkF2yTM69rLCad3Ymm7z7vR2uu4o6slfwNbnXzcteuRyYg" type="MOVIE",Anger of The Dead
+https://lh3.googleusercontent.com/-HMtlmUizy2LhV7m8GfmbzgVHCsmVodxJDuYefrQ_5VNrWwNKxJLCNtbFCwEtu7zN0ikGfrC=m22
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img3.acsta.net/pictures/15/12/17/14/01/401308.jpg" type="MOVIE",Amor em Sampa
+https://lh3.googleusercontent.com/nwuE1YUQkrR-aHqaZRty2fKBYkVbCG-T61XdYUcA_IpTmwHQMoC-FkJBMzSNUFjklKrOqIXN=m22
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://t1.gstatic.com/images?q=tbn:ANd9GcQkB0TuKruaG_PylU3qlUC2BkFKj3R4aUgN2MMDkc7hmSXrPTsy" type="MOVIE",Hacksaw Ridge
+https://cld.pt/dl/download/0274d7e9-51f5-47b2-ac9e-8dd1323aab07/Hacksaw%20Ridge.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://t3.gstatic.com/images?q=tbn:ANd9GcQvqid_rbEby5j_XkVnSdwWgvSTiX9Np1I6iTJPJWYZFCBOPe4w" type="MOVIE",Passengers
+https://cld.pt/dl/download/90d808dd-e73b-4a33-a879-2b2d072c753d/Passengers.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://pracadobocage.files.wordpress.com/2011/09/a-bela-e-o-paparazzo.jpg" type="MOVIE",A Bela E O Paparazzo
+https://cld.pt/dl/download/db764124-51a8-491b-9f11-e7613aa28559/A%20Bela%20E%20O%20Paparazzo%20%282010%29.avi
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.cinept.ubi.pt/images/bd/callgirl_cartaz.jpg" type="MOVIE",Call Girl
+https://cld.pt/dl/download/5de268e9-2f1d-4d4e-998c-15454c849bae/Call%20Girl%20%282007%29.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://i.jeded.com/i/mau-mau-maria.35230.jpg" type="MOVIE",Mau Mau Maria 2014
+https://cld.pt/dl/download/dc8e1db1-2cfb-4f64-bb80-e9fd590f15aa/Mau.Mau.Maria.2014.avi
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://filmspot.com.pt/images/media/6158.jpg" type="MOVIE",Pátio das Cantigas
+https://cld.pt/dl/download/3bb5176a-d4cf-4253-a9a1-d1c8124b7454/P%C3%A1tio%20das%20Cantigas%20%5B2015%5D.avi
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/O_Crime_do_Padre_Amaro_(2005)_cartaz.jpg" type="MOVIE",O Crime Do Padre Amaro
+https://cld.pt/dl/download/4a6beb5b-913a-4072-a6db-bf8fadc89eab/o%20crime%20do%20padre%20amaro.mp4
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.festadoavante.pcp.pt/sites/default/files/images/2015/promocionais/2015_promocionais_gatos_nao_tem_vertigens.JPG" type="MOVIE",Os Gatos Não Tem Vertigens
+https://cld.pt/dl/download/915f85b6-f991-495f-a7eb-30d3bda742f9/OS%20GATOS%20N%C3%83O%20T%C3%8AM%20VERTIGENS.mp4
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://i31.tinypic.com/wjvdd.png" type="MOVIE",Second Life 2009
+https://cld.pt/dl/download/81a68ce8-007e-4bda-8619-aa20a8805dcb/Second%20Life%20%282009%29.avi
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.wareztuga-tv.com/uploads/posts/2016-12/1482824564_hghghghghhhhtyt.jpg" type="MOVIE",Deepwater - Horizonte Profundo
+https://cld.pt/dl/download/f0087664-3693-417b-a957-d71b6617f59e/Deepwater-Horizonte%20Profundo.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/08/24/21/35/065978.jpg" type="MOVIE",Inferno
+https://cld.pt/dl/download/2c8e7132-6ba6-443c-892a-55f42bb8c538/Inferno.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ab/La_La_Land_(film).png" type="MOVIE",La La Land
+https://cld.pt/dl/download/6de54bfc-6bff-4d37-8e7d-e7075f493de3/La%20La%20Land.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/Suicide_Squad_(film)_Poster.png" type="MOVIE",Suicide Squad
+https://cld.pt/dl/download/1c441273-a286-45ac-89a1-924b5026c278/Suicide%20Squad.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/62/Fences_(filme).png/200px-Fences_(filme).png" type="MOVIE",Vedações - Um limite entre nós 
+https://cld.pt/dl/download/189a543b-671f-44f9-b7c6-0ec8f61febee/Veda%C3%A7%C3%B5es%20-%20Um%20Limite%20Entre%20N%C3%B3s.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Collateral_Beauty_poster.png" type="MOVIE",Collateral Beauty
+https://cld.pt/dl/download/c9a6fe12-1d7d-460d-aef6-75a4d431312e/Collateral.Beauty.2016.720p.BRRip.264.AC3-Manning.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Fantastic_Beasts_and_Where_to_Find_Them_poster.png" type="MOVIE",Fantastic Beast
+https://cld.pt/dl/download/bb669234-a479-4922-9a84-7781ffaf6238/Fantastic.Beasts.and.Where.to.Find.Them.2016.BDRip.x264.AC3-Manning.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Kubo_and_the_Two_Strings_poster.png" type="MOVIE",Kubo And The Two Strings
+https://cld.pt/dl/download/2753eb43-5741-4a05-8f13-37d654f23627/Kubo.And.The.Two.Strings.2016.PORTUGUESE.720p.BRRiP.x264-OWN.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Storks_(film)_poster_2.jpg" type="MOVIE",Storks 
+https://cld.pt/dl/download/fa134f90-0b48-4c2c-9504-8a2dbcfe2cf4/Storks.2016.PT.720p.BRRiP.x264-iFT.mp4
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/The_Secret_Life_of_Pets_poster.jpg" type="MOVIE",The Secret Life of Pets
+https://cld.pt/dl/download/0664bb6b-b037-4cfd-814a-4ba9d1438cf8/The.Secret.Life.of.Pets.2016.PT.720p.BRRip.x264.AC3-R23..mp4
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Trolls_(film)_logo.png" type="MOVIE",Trolls
+https://cld.pt/dl/download/e5e2b66b-c1d1-44d0-83df-27a15a9d886d/Trolls.2016.PT.720p.BluRay.x264-iFT.mp4
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://i.imgur.com/woVYLbNl.jpg" type="MOVIE",Death Race 2050
+https://cld.pt/dl/download/be1e24b1-8d4c-4ab7-b2b3-be72a01e96d7/Death.Race.2050.2017.720p.BRRip.x264.AC3-Manning.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.silveremulsion.com/wp-content/uploads/2013/07/jackreacher_1.jpg" type="MOVIE",jack reacher
+https://cld.pt/dl/download/a18df80f-0be5-43b0-b67c-6a29e82c86f5/jack.reacher.2012.720p.bluray.x264-nezu.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://i.jeded.com/i/jack-reacher-never-go-back.58358.jpg" type="MOVIE",Jack Reacher Never Go Back
+https://cld.pt/dl/download/f98522bd-ba2b-4909-9cfa-2709792385de/Jack.Reacher.Never.Go.Back.2016.720p.BRRip.x264.AC3-Manning.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/8/84/20170108193609!Jackie_(2016_film).png" type="MOVIE",Jackie
+https://cld.pt/dl/download/dd126d6f-e603-4fca-8ba5-57ace4afc4e8/Jackie.2016.720p.BRRip.x264.AC3-iFT.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://img.yify-movies.net/40/56268/max-steel-2016-1080p-large.jpg" type="MOVIE",Max Steel
+https://cld.pt/dl/download/8aef887b-45e5-4779-8e51-c0626380591f/Max.Steel.2016.720p.BRRip.x264.AC3-R23.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://wp.production.patheos.com/blogs/sisterrosemovies/files/2016/09/sully-movie-poster.png" type="MOVIE",Sully
+https://cld.pt/dl/download/91e8146a-282f-4916-b466-d6d874e41655/Sully.2016.720p.BRRip.x264.AC3-Manning.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://s3.foxmovies.com/foxmovies/production/films/111/images/posters/484-film-page-large.jpg" type="MOVIE",Assassins Creed
+https://cld.pt/dl/download/3dac3213-7425-4521-a2dc-9d95fcaf6dca/Assassins%20Creed.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://cinema10.com.br/upload/filmes/filmes_10536_us1.jpg" type="MOVIE",USS Indianapolis - Homens de coragem
+https://cld.pt/dl/download/6459430a-d342-4c5b-853f-7b982314f78f/USS%20Indianapolis%20-%20Homens%20de%20coragem.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/eb/94/2c/eb942c9cbc8ed36658e504c738e9e102.jpg" type="MOVIE",Arrival
+https://cld.pt/dl/download/13236953-e617-4e00-a557-ba46bd1cb16c/Arrival.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img2.acsta.net/pictures/15/11/04/17/25/082795.jpg" type="MOVIE",13 Hours The Secret Soldiers of Benghazi
+https://cld.pt/dl/download/f4e42779-e81c-45d3-86c9-f3b16bf34034/13%20Hours%20The%20Secret%20Soldiers%20of%20Benghazi.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://cinepop.com.br/wp-content/uploads/2016/03/independenceday2_1.jpg" type="MOVIE",Independence Day Resurgence
+https://cld.pt/dl/download/5dec44b1-0a16-46f3-83d9-024108ba94be/Independence%20Day%20Resurgence.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img3.acsta.net/pictures/14/09/09/20/19/120267.jpg" type="MOVIE",John Wick
+https://cld.pt/dl/download/3927ec5d-d93e-4d67-a387-7d22bad7294a/John%20Wick.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.newdvdreleasedates.com/images/posters/large/marauders-2016-01.jpg" type="MOVIE",Marauders
+https://cld.pt/dl/download/f9f576bb-11fa-41c4-8dba-572b7d9b60b9/Marauders.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/16/04/19/23/08/182381.jpg" type="MOVIE",MONEY MONSTER
+https://cld.pt/dl/download/690d450b-9f25-4491-ba1f-1cec0d0bb2fa/MONEY%20MONSTER%20-%20Monstro%20do%20dinheiro.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.ruthlessreviews.com/wp-content/uploads/2016/10/The-Accountant-Movie-Poster-640x851.jpg" type="MOVIE",The Accountant
+https://cld.pt/dl/download/10d4be3d-b8bf-4053-88d6-d16f800bcd68/The%20Accountant.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/92/61/27/20208820.jpg" type="MOVIE",The Bourne Identity I
+https://cld.pt/dl/download/c5fabe43-cc24-4fb1-addc-eaee7ab4e45f/The%20Bourne%20Identity%20I.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/90/56/11/20102333.jpg" type="MOVIE",The Bourne Supremacy II
+https://cld.pt/dl/download/b08ce233-0e79-49a1-a3bd-d780afb27308/The%20Bourne%20Supremacy%20II.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://kingofwallpapers.com/the-bourne-ultimatum/the-bourne-ultimatum-009.jpg" type="MOVIE",The Bourne Ultimatum III
+https://cld.pt/dl/download/960dd80d-6ec0-48ee-b145-93c118e58855/The%20Bourne%20Ultimatum%20III.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/2d/49/ff/2d49ff06d981cd41da7bb86ad530aca1.jpg" type="MOVIE",The Bourne Legacy IV
+https://cld.pt/dl/download/dd5de846-0631-4de8-8858-fdafbf639f19/The%20Bourne%20Legacy%20IV.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.joblo.com/face_off_img/4c5ada53-aef6-5212..jpg" type="MOVIE",The Bourne Jason Bourne V
+https://cld.pt/dl/download/afdf5578-415a-4d6e-9cfe-b1ed6257f273/The%20Bourne%20Jason%20Bourne%20V.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/06/23/16/28/282704.jpg" type="MOVIE",The Magnificent Seven
+https://cld.pt/dl/download/5d9d7604-c406-42e6-8e99-8150693dd8e0/The%20Magnificent%20Seven.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/The_Revenant_2015_film_poster.jpg" type="MOVIE",The Revenant
+https://cld.pt/dl/download/ea609ee2-d01a-4e1e-aa4a-c6297c798cd4/The%20Revenant.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.bolsamania.com/seriesadictos/wp-content/uploads/2008/02/moonlight.jpg" type="MOVIE",Moonlight
+https://cld.pt/dl/download/585a29b6-af99-4bc8-92e5-e732212f2f62/Moonlight.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/40/Poste_Nosso_Lar.jpg" type="MOVIE",Nosso Lar
+https://cld.pt/dl/download/c07085b9-909f-46d4-8d76-3e6c99762951/Nosso%20Lar.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://megafilmesonline.net/wp-content/uploads/2016/06/Truque-de-Mestre-2.jpg" type="MOVIE",Now You See Me 2
+https://cld.pt/dl/download/5c3a0ff2-6e6e-44ea-aaba-d67fa2eb5a05/Now%20You%20See%20Me%202.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/16/08/16/21/02/177564.jpg" type="MOVIE",The Girl On The Train
+https://cld.pt/dl/download/2afc992a-094e-4baa-a5c5-3d99b4d01852/The%20Girl%20On%20The%20Train.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c7/Doctor_Strange_poster.jpg/200px-Doctor_Strange_poster.jpg" type="MOVIE",Doctor Strange
+https://cld.pt/dl/download/07b6ff5a-f9ad-4b8b-a8ae-91fa441fbbab/Doctor.Strange.2016.IMAX.EDITION.BDRip.x264.AC3-Manning.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/15/05/14/14/20/365361.jpg" type="MOVIE",Divertida-Mente
+https://cld.pt/dl/download/9239e270-b6d9-443b-b74e-c20f706e5838/Divertida-Mente.2015.PT.ENG.BRRip.XviD-DarkSkY.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.ocamundongo.com.br/wp-content/uploads/2015/03/frozen-fever-poster-elsa-anna-camundongo.jpg" type="MOVIE",Frozen Fever
+https://cld.pt/dl/download/21a64201-d422-41f1-bdf5-8c14ecaf8130/Frozen.Fever.2015.ENG.PT.720p.Bluray.X264.aac-EVO.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://cinemas.nos.pt/_layouts/15/Cinemas/Handlers/RenderImage.ashx?file=45480.png" type="MOVIE",Frozen O Reino de Gelo
+https://cld.pt/dl/download/8f351bf0-9f5f-4627-bbc8-9f200e7fc131/Frozen.O.Reino.de.Gelo.2013.PT.ENG.480p.BRRip.XviD.AC3-EVO.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_3c4add40.jpeg" type="MOVIE",Monsters Inc
+https://cld.pt/dl/download/9611c0ff-0b0f-4bac-8f21-0e78a0a496d4/Monsters.Inc.2001.PT.ENG.DVDRip.XviD.AC3-vmf012.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Universidade_Monstros_-_p%C3%B4ster.jpg" type="MOVIE",Monstros A Universidade
+https://cld.pt/dl/download/f3ed65af-06ab-4268-8df1-99b41eaab133/Monstros.A.Universidade.2013.PT.ENG.DVDRip.XviD.AC3-vmf012.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.cinemundo.pt/wp-content/uploads/2014/11/MUNE_web.jpg" type="MOVIE",Mune, O Guardião da Lua
+https://cld.pt/dl/download/8d243cc9-78c4-4b75-b843-1b4a8b656fc7/Mune%2C%20O%20Guardi%C3%A3o%20da%20Lua%20%282014%29.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/29/Finding_Nemo.jpg" type="MOVIE",À Procura de Nemo
+https://cld.pt/dl/download/9a02f425-84b0-4bbd-9065-ca4f756489f2/%C3%80%20Procura%20de%20Nemo%20%282003%29.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://cdn.hoyts.co.nz/mediafiles/images/NZposters/HO00003699.jpg" type="MOVIE",Angry Birds O Filme
+https://cld.pt/dl/download/d3df0e83-f5d0-4cd2-876a-7968b82d8a63/Angry%20Birds%20O%20Filme%20%282016%29%20%5BBRRip%20720p%20%E2%80%93%20%C3%81udio%20PT-PT%5D-3.mp4
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://cld.pt/dl/download/f1601856-e748-4761-a4a2-d8f7fe897637/A%20Guarda%20do%20Le%C3%A3o%20-%20O%20Regresso%20do%20Rugido%20-%20Capa%2000.jpg" type="MOVIE",A Guarda do Leão - O Regresso do Rugido
+https://cld.pt/dl/download/c68dd932-156c-4add-9537-0b46aaf7e9dd/A%20Guarda%20do%20Le%C3%A3o%20-%20O%20Regresso%20do%20Rugido.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://s20.postimg.org/oujfdos8t/capa1.png" type="MOVIE",A Guarda do Leão - Liberta o Poder
+https://cld.pt/dl/download/665d55ec-1169-432a-b323-b549834653ea/A%20Guarda%20do%20Le%C3%A3o%20-%20Liberta%20o%20Poder%20-%202016.avi
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/e6/0e/e4/e60ee4a20fa96533af0705cf26f5be60.jpg" type="MOVIE",Bastille Day
+https://cld.pt/dl/download/36e5270d-9a8b-4971-8f15-d9781685f3d5/Bastille%20Day.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://cdn-2.cinemaparadiso.co.uk/1603081145284_l.jpg" type="MOVIE",Churchill's Secret
+https://cld.pt/dl/download/c8b4b5e6-4453-41e4-a059-cd0d14680fc1/Churchill%27s%20Secret.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img2.acsta.net/pictures/16/02/22/15/04/196967.jpg" type="MOVIE",Convergente
+https://cld.pt/dl/download/1f5eaeae-b3dc-45be-af14-a8cabf9d085d/Convergente.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8e/Divergent.png/200px-Divergent.png" type="MOVIE",Divergente
+https://cld.pt/dl/download/15c9c8e0-df7b-4dc9-be3b-9b147ff3d63e/Divergente.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.impawards.com/2016/posters/free_state_of_jones_ver6_xlg.jpg" type="MOVIE",Free State Of Jones
+https://cld.pt/dl/download/2999ef4b-b602-437a-b9af-75443d2dd8c9/Free%20State%20Of%20Jones.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img2.acsta.net/pictures/16/02/14/13/03/358252.jpg" type="MOVIE",Gods of Egypt
+https://cld.pt/dl/download/5eab8eae-2247-4a1d-b69d-64fee487b3e8/Gods%20of%20Egypt.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.gstatic.com/tv/thumb/movieposters/13143875/p13143875_p_v8_aa.jpg" type="MOVIE",Hard Target 2
+https://cld.pt/dl/download/f8d9b1ed-22dd-489b-af6d-7d3ba5433d66/Hard%20Target%202.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.partagenatal.com.br/media/Insurgente.jpg" type="MOVIE",Insurgente
+https://cld.pt/dl/download/55f5cdb7-9242-41ec-827e-f8e20c0dc11b/Insurgente.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img2.acsta.net/pictures/16/02/17/17/03/119397.jpg" type="MOVIE",London Has Fallen
+https://cld.pt/dl/download/9907c4b2-a8c1-4b0e-8735-35516f76c54e/London%20Has%20Fallen.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img2.acsta.net/pictures/16/02/03/19/11/303307.jpg" type="MOVIE",Me Before You
+https://cld.pt/dl/download/5b3641d7-acd2-4dbf-8d88-c52ef077cc4e/Me%20Before%20You.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.ruthlessreviews.com/wp-content/uploads/2016/10/The-Accountant-Movie-Poster-640x851.jpg" type="MOVIE",The Accountant
+https://cld.pt/dl/download/dcd2afcc-1cc6-4aec-8aa2-f534280302b6/The%20Accountant.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img3.acsta.net/pictures/16/03/08/17/33/532308.jpg" type="MOVIE",The Huntsman Winter's War
+https://cld.pt/dl/download/24e6fbd2-fcd9-4c51-928b-0c926aa94c0d/The%20Huntsman%20Winter%27s%20War.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img2.acsta.net/pictures/15/12/10/10/50/414186.jpg" type="MOVIE",The Legend Of Tarzan
+https://cld.pt/dl/download/a15b424e-ae22-4ab7-9547-8cfe93169ee9/The%20Legend%20Of%20Tarzan.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.site-telechargement.org/affiche/affiche11.jpg" type="MOVIE",Underworld I
+https://cld.pt/dl/download/2daace94-85a7-4ebf-a1ca-21e752afcc90/Underworld%20I.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/5a/Underworld2evolution.jpg/255px-Underworld2evolution.jpg" type="MOVIE",Underworld II Evolution
+https://cld.pt/dl/download/3f842b83-b2f0-4745-becd-437d56580c8e/Underworld%20II%20Evolution.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/49/90/56/499056fed66319a508ec98daf75e2e9a.jpg" type="MOVIE",Underworld III Rise of the Lycans
+https://cld.pt/dl/download/1a4b8df6-31cb-40c9-a1e9-21479d48f0f3/Underworld%20III%20Rise%20of%20the%20Lycans.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/10/07/20/26/295252.jpg" type="MOVIE",Underworld IV Awakening
+https://cld.pt/dl/download/be031f63-689d-4430-8b65-047a23ea5a03/Underworld%20IV%20Awakening.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/X-Men_-_Apocalypse.jpg" type="MOVIE",X-Men Apocalypse
+https://cld.pt/dl/download/9819c5ff-4bd6-4b40-bc0f-954cd97630a7/X-Men%20Apocalypse.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/Dirty_Grandpa_teaser_poster.jpg" type="MOVIE",Dirty Grandpa
+https://cld.pt/dl/download/34a5424f-096c-4685-9493-01aa14d9db75/Dirty.Grandpa.2016.720p.BluRay.H264.AAC-RARBG.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/06/30/20/49/544752.jpg" type="MOVIE",Finding Dory 2016
+https://cld.pt/dl/download/e59b087f-fb37-4a67-b3a3-bf32e676608a/Finding.Dory.2016.PT.ENG.720p.BDRip.AC3-iFT.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.filmesonlinehd11.cc/wp-content/uploads/2015/12/Hotel-Transilvania-2.jpg" type="MOVIE",Hotel Transylvania 2
+https://cld.pt/dl/download/0d06f6f0-c0b0-4cff-b0a3-ba5bb6d9b9d2/Hotel.Transylvania.2.2015.PORTUGUESE.720p.BRRiP.x264-OWN.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/01/24/21/36/094174.jpg" type="MOVIE",Rio 2
+https://cld.pt/dl/download/427cfd0c-838b-44d9-b732-c4f7f7fca6fa/Rio.2.2014.PT.ENG.480p.BRRip.XviD.AC3-iNFiNiTy.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/32/32/19874310.jpg" type="MOVIE",Rio 2011
+https://cld.pt/dl/download/4062f06d-16e3-4ddd-ae83-c5af20620914/Rio.2011.DVDRip.PT-PT.onofrinho.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ae/Starwars_06.jpg/250px-Starwars_06.jpg" type="MOVIE",Star Wars Episode VII The Force Awakens
+https://cld.pt/dl/download/2a1cab36-da7a-4e59-a233-f429f6a9c9eb/Star.Wars.Episode.VII.The%20Force%20Awakens.2015.720p.BRRip.X264.AC3-EVO.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://2.bp.blogspot.com/_5EE1wK9F0qs/THjHpT6S99I/AAAAAAAAClI/BmuahiJIuwI/s1600/Carros.DVDRIP.Xvid.Dublado.JPG" type="MOVIE",Cars
+https://cld.pt/dl/download/8458bf64-7b51-4de6-bb56-fc02e1acb6b6/Cars.2006.DVD9..mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/91/50/20028729.jpg" type="MOVIE",CARS 2
+https://cld.pt/dl/download/b7eab7e3-673c-426e-8b7f-e7e2893fe06e/CARS_2_2011_PT_PAL_DVD9.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/Despicable_Me_2_poster.jpg" type="MOVIE",Despicable Me 2
+https://cld.pt/dl/download/a5c8bde4-85f7-42eb-bf6c-e6ffbed56d49/Despicable.Me.2.2013.PORTUGUESE.BRRiP.x264-OWN.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://fotosimagens.com.br/wp-content/uploads/2016/12/meninas-minios.jpg" type="MOVIE",Despicable  Me
+https://cld.pt/dl/download/574930db-1892-426c-9f4b-938c109f7d65/Despicable.Me.2010.PORTUGUESE.720p.BRRiP.x264-HDTeam.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781476760087/mike-and-dave-need-wedding-dates-9781476760087_hr.jpg" type="MOVIE",Mike and Dave Need Wedding Dates
+https://cld.pt/dl/download/7053f324-cdcd-4d8b-9de8-1398968f28be/Mike.and.Dave.Need.Wedding.Dates.2016.720p.BRRip.x264.AC3-Sunlight.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.sanity.com.au/media/Images/fullimage/310158/SDC_2312016_2016-06-7--00-15-37.jpg" type="MOVIE",Neighbors 2 Sorority Rising
+https://cld.pt/dl/download/bceb20c9-943f-42eb-98c6-eb46ad87802f/Neighbors.2.Sorority.Rising.2016.720p.BRRip.x264.AC3-iFT.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tr.web.img4.acsta.net/pictures/16/04/07/16/26/015101.jpg" type="MOVIE",A Hologram For The King
+https://cld.pt/dl/download/e8d25ca3-a45b-4b55-9cef-b341b0d94640/A%20Hologram%20For%20The%20King.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://c4.quickcachr.fotos.sapo.pt/i/Bb3017c7a/15595576_mmIK6.jpeg" type="MOVIE",A Street Cat Named Bob
+https://cld.pt/dl/download/1f2585b6-47b9-4600-b704-9640446faada/A%20Street%20Cat%20Named%20Bob.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://3.bp.blogspot.com/-Ng4-aCmffAE/UHi1hsxK3dI/AAAAAAAAAzo/B5LYZcGezQ8/s1600/maes_chico_2011+ok.jpg" type="MOVIE",As Maes De Chico Xavier
+https://cld.pt/dl/download/007b71f3-d120-4521-ac2d-71365c4427d4/As%20Maes%20De%20Chico%20Xavier%202011.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/04/06/17/09/353656.jpg" type="MOVIE",Ben Hur
+https://cld.pt/dl/download/d7fc1dad-4462-4c50-8f8f-d4b15ea8b9de/Ben%20Hur.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://videoeta.com/images/movies/ml/COL_D49699D.jpg" type="MOVIE",Blackway
+https://cld.pt/dl/download/1a605916-112d-4fd9-9244-fc57944f8faf/Blackway.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://cinemas.nos.pt/_layouts/15/Cinemas/Handlers/RenderImage.ashx?file=49053.png" type="MOVIE",Central Intelligence
+https://cld.pt/dl/download/25b2484f-fd9b-42b4-8698-09f7129d13ba/Central%20Intelligence.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Exodus2014Poster.jpg/220px-Exodus2014Poster.jpg" type="MOVIE",Exodus - Gods and Kings
+https://cld.pt/dl/download/cb56af68-78da-41da-a52d-c237fd7d78c5/Exodus%20-%20Gods%20and%20Kings.mkv
+
