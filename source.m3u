@@ -4,7 +4,7 @@
 Http://google.pt
 
 #EXTINF:-1 ext_id="171"rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rtysxv1466191624.png/small",canal 2
-http://esott2.stream.nos.pt/nosaes/live-spts/media/EPGC5/transmux/CCURstream1564000.m3u8
+http:///nosaes/live-spts/media/EPGC5/transmux/1564000_161122043139091_965603.ts
 
 #EXTINF:-1 ext_id="171"rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rtysxv1466191624.png/small",RTP 1
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/FamiliaIPTV.m3u8
