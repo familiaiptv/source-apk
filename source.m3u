@@ -3,6 +3,10 @@
 #EXTINF:-1 ext_id="rtp1.pt" tvg-logo="https://dl-web.meocloud.pt/dlweb/download/addon%20family/fanart%20e%20icon/icon.png?public=64e41e54-810f-49f4-9cc2-9ecacc48b15c",GENÉRICOS
 Http://google.pt
 
+#EXTINF:-1 ext_id="171"rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rtysxv1466191624.png/small",canal de teste
+http://83.174.39.9/1b866d1f9683f23e47eb692b0835aa57/1489532376/shls/LIVE$28/index.m3u8/S!d2EKT1RUSExTX0VOQxIKVP7...8BFhSf/Level(304087)/Segment(14894461955836680).ts
+
+
 #EXTINF:-1 ext_id="171"rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rtysxv1466191624.png/small",RTP 1
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/FamiliaIPTV.m3u8
 
@@ -100,9 +104,6 @@ http://google.pt
 
 #EXTINF:-1 ext_id="151"tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium",SPORT TV 1 HD (temp)
 http://ptiptv.dyndns.tv:8000/live/facebook/facebook234/57.ts
-
-#EXTINF:-1 ext_id="151"tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium",SPORT TV 1 HD (teste)
-http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=HLSRETRY&maxbitrate=0&proxy=None&callbackparam=&url=http%3A%2F%2Fipro.newtvhd.com%3A8789%2Flive%2Fhub1%2FKT4xtDV6QK%2F320.m3u8&swf=None&auth=&simpledownloader=False
 
 #EXTINF:-1 ext_id="231"tvg-logo="https://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium",Benfica Tv
 
