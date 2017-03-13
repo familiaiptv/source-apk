@@ -101,6 +101,9 @@ http://google.pt
 #EXTINF:-1 ext_id="151"tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium",SPORT TV 1 HD (temp)
 http://ptiptv.dyndns.tv:8000/live/facebook/facebook234/57.ts
 
+#EXTINF:-1 ext_id="151"tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium",SPORT TV 1 HD (teste)
+http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=HLSRETRY&maxbitrate=0&proxy=None&callbackparam=&url=http%3A%2F%2Fipro.newtvhd.com%3A8789%2Flive%2Fhub1%2FKT4xtDV6QK%2F320.m3u8&swf=None&auth=&simpledownloader=False
+
 #EXTINF:-1 ext_id="231"tvg-logo="https://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium",Benfica Tv
 
 #EXTINF:-1 ext_id="231"tvg-logo="https://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium",Benfica Tv (temp)
