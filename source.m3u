@@ -3,8 +3,9 @@
 #EXTINF:-1 ext_id="rtp1.pt" tvg-logo="https://dl-web.meocloud.pt/dlweb/download/addon%20family/fanart%20e%20icon/icon.png?public=64e41e54-810f-49f4-9cc2-9ecacc48b15c",GENÉRICOS
 Http://google.pt
 
-#EXTINF:-1 ext_id="171"rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rtysxv1466191624.png/small",canal de teste2
+#EXTINF:-1 ext_id="171"rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rtysxv1466191624.png/small",canal 2
 http://esott2.stream.nos.pt/nosaes/live-spts/media/EPGC5/transmux/464000_161122043139091_965566.ts
+
 
 #EXTINF:-1 ext_id="171"rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rtysxv1466191624.png/small",RTP 1
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/FamiliaIPTV.m3u8
