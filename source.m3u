@@ -146,18 +146,17 @@ acestream://7cf68aeead1416b0afc080e814476b82bc68fff0
 #EXTINF:-1 ext_id="rtp1.pt" tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png", Liga Nos jornada 26
 http://google.pt
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png",Arenavision 5
-acestream://4e51f9bb6c1487b6f42df052b7f04c05f619c0f3
-
-#EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png",Arenavision 6
-acestream://05fb57238df275aa70c769ddeffa1476134a3ac1
-
 #EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png",Arenavision 8 
-acestream://0434cb2607081997f7c9178fc80983ba0b1cf545
+acestream://3c8d7271af9f75d12cd5d8224980fb12039f83cd
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png",Arenavision 9 
-acestream://60145425bd83fbd1db58ebf826fbc9f868404dbd
+acestream://40dc2f7d666c780bbd9d160b33a9d2bfedf9d509
 
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png",Arenavision 11
+acestream://6ec049a407ea9272cf00e6ec92a950d88d4e8169
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png",Arenavision 12
+acestream://7cf68aeead1416b0afc080e814476b82bc68fff0
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Arenavision
 Http://google.pt
