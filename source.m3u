@@ -15,6 +15,9 @@ http://live.impresa.pt/live/sic/sic540p.m3u8
 #EXTINF:-1 ext_id="173" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/small",SIC
 http://213.228.128.27/hlsl/1/SIC/04.m3u8
 
+#EXTINF:-1 ext_id="173" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/small",SIC SD
+http://95.211.148.133:8088/stream/SIC7483874/playlist.m3u8?id=29400&pk=c18403de265a9bd4e5292392ae0313ab3fa3733c27d02f42000416d3d11c0690
+
 #EXTINF:-1 ext_id="173" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/small",SIC (temp)
 http://worldcs.info:8080/live/ster/ster/617.m3u8
 
