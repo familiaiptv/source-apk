@@ -128,21 +128,6 @@ acestream://97cad444355dfeeb9810834c0c8225c52041f5d3
 #EXTINF:-1 ext_id="112"tvg-logo="https://www.thelogodb.com/images/media/logo/uvpqvr1470410094.png/medium",SPORTTV 5
 acestream://b4d0535ed13cd606a1441aaed6a77a7ddfcd6340
 
-#EXTINF:-1 ext_id="rtp1.pt" tvg-logo="http://www.zerozero.pt/img/logos/competicoes/27_imgbank_lc_20150415164942.png", Liga dos Campeões Juventus-Porto
-http://google.pt
-
-#EXTINF:-1 ext_id="151"tvg-logo="http://tvron.net/static/canal/arenavision.png",Arenavision 1 
-acestream://c964a34220ebbc069c52cabb723e8968d9d70018
-
-#EXTINF:-1 ext_id="151"tvg-logo="http://tvron.net/static/canal/arenavision.png",Arenavision 2 
-acestream://3780789f5f36619d768fb40e192f4b67109fa767
-
-#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Arenavision 11
-acestream://6ec049a407ea9272cf00e6ec92a950d88d4e8169
-
-#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Arenavision 12
-acestream://7cf68aeead1416b0afc080e814476b82bc68fff0
-
 #EXTINF:-1 ext_id="rtp1.pt" tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png", Liga Nos jornada 26
 http://google.pt
 
@@ -161,10 +146,10 @@ acestream://7cf68aeead1416b0afc080e814476b82bc68fff0
 #EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Arenavision
 Http://google.pt
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 1 
+#EXTINF:-1 ext_id="151"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 1 
 acestream://c964a34220ebbc069c52cabb723e8968d9d70018
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 2 
+#EXTINF:-1 ext_id="151"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 2 
 acestream://3780789f5f36619d768fb40e192f4b67109fa767
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 3
@@ -280,6 +265,9 @@ acestream://ba82bd48af57b87aa00d9b0bd2451dcc4391f4b6
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png",FOX SPORT 2
 acestream://12355061ec21ead33f5b393ecd34e2f2399199c0
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/xqwpww1436887616.png/medium",Real Madrid TV
+acestream://677b613d289b71812cbee35c6948a27161a50b7f
 
 #EXTINF:-1 ext_id="rtp1.pt" tvg-logo="https://dl-web.meocloud.pt/dlweb/download/addon%20family/fanart%20e%20icon/icon.png?public=64e41e54-810f-49f4-9cc2-9ecacc48b15c",´Música
 http://google.pt
