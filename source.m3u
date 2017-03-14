@@ -128,9 +128,23 @@ acestream://97cad444355dfeeb9810834c0c8225c52041f5d3
 #EXTINF:-1 ext_id="112"tvg-logo="https://www.thelogodb.com/images/media/logo/uvpqvr1470410094.png/medium",SPORTTV 5
 acestream://b4d0535ed13cd606a1441aaed6a77a7ddfcd6340
 
-#EXTINF:-1 ext_id="rtp1.pt" tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png", Liga Nos jornada 26
+#EXTINF:-1 ext_id="rtp1.pt" tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png", Liga dos Campeões Juventus-Porto
 http://google.pt
 
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Arenavision 1 
+acestream://c964a34220ebbc069c52cabb723e8968d9d70018
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Arenavision 2 
+acestream://3780789f5f36619d768fb40e192f4b67109fa767
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Arenavision 11
+acestream://6ec049a407ea9272cf00e6ec92a950d88d4e8169
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Arenavision 12
+acestream://7cf68aeead1416b0afc080e814476b82bc68fff0
+
+#EXTINF:-1 ext_id="rtp1.pt" tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png", Liga Nos jornada 26
+http://google.pt
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png",Arenavision 5
 acestream://4e51f9bb6c1487b6f42df052b7f04c05f619c0f3
