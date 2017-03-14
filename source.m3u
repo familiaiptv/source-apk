@@ -131,10 +131,10 @@ acestream://b4d0535ed13cd606a1441aaed6a77a7ddfcd6340
 #EXTINF:-1 ext_id="rtp1.pt" tvg-logo="http://www.zerozero.pt/img/logos/competicoes/27_imgbank_lc_20150415164942.png", Liga dos Campeões Juventus-Porto
 http://google.pt
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Arenavision 1 
+#EXTINF:-1 ext_id="151"tvg-logo="http://tvron.net/static/canal/arenavision.png",Arenavision 1 
 acestream://c964a34220ebbc069c52cabb723e8968d9d70018
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Arenavision 2 
+#EXTINF:-1 ext_id="151"tvg-logo="http://tvron.net/static/canal/arenavision.png",Arenavision 2 
 acestream://3780789f5f36619d768fb40e192f4b67109fa767
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Arenavision 11
