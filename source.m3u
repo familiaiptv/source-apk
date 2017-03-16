@@ -120,7 +120,7 @@ http://worldcs.info:8080/live/ster/ster/633.m3u8
 http://ptiptv.dyndns.tv:8000/live/facebook/facebook234/643.m3u8
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/trrqwt1433356293.png/medium",Real Madrid Tv
-http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
+http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/FamiliaIPTV.m3u8
 
 #EXTINF:-1 ext_id="408"tvg-logo="http://www.thelogodb.com/images/media/logo/vqrwpt1481664823.png/medium",SPORTTV + HD				 
 acestream://b77a073233900b451e33b334a740ac16f624692b
