@@ -64,6 +64,9 @@ http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp
 #EXTINF:-1 ext_id="4"tvg-logo="http://www.thelogodb.com/images/media/logo/ysyyxw1438185870.png/Small",RTP MEMÓRIA 
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/FamiliaIPTV.m3u8
 
+#EXTINF:-1 ext_id="155"tvg-logo="https://www.thelogodb.com/images/media/logo/twwwyr1436891006.png",RECORD NEWS 
+http://streaming57.sitehosting.com.br:1935/redesim/redesim/FamiliaIPTV.m3u8
+
 #EXTINF:-1 ext_id="rtp1.pt" tvg-logo="https://dl-web.meocloud.pt/dlweb/download/addon%20family/fanart%20e%20icon/icon.png?public=64e41e54-810f-49f4-9cc2-9ecacc48b15c",FILMES
 Http://google.pt
 
