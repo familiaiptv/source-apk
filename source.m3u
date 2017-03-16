@@ -64,6 +64,9 @@ http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp
 #EXTINF:-1 ext_id="4"tvg-logo="http://www.thelogodb.com/images/media/logo/ysyyxw1438185870.png/Small",RTP MEMÓRIA 
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/FamiliaIPTV.m3u8
 
+#EXTINF:-1 ext_id="39"tvg-logo="http://www.thelogodb.com/images/media/logo/wytsyp1478614643.png/medium",EURONEWS 
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
+
 #EXTINF:-1 ext_id="155"tvg-logo="https://www.thelogodb.com/images/media/logo/twwwyr1436891006.png",RECORD NEWS 
 http://streaming57.sitehosting.com.br:1935/redesim/redesim/FamiliaIPTV.m3u8
 
