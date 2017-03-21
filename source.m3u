@@ -18,8 +18,8 @@ http://213.228.128.27/hlsl/1/SIC/04.m3u8
 #EXTINF:-1 ext_id="173" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/small",SIC (teste)
 http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/FamiliaIptv.m3u8
 
-#EXTINF:-1 ext_id="173" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/small",SIC (temp.)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13668.m3u8
+#EXTINF:-1 ext_id="173" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/small",SIC (temp)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13668.ts
 
 #EXTINF:-1 ext_id="174" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png/small",TVI
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/FamiliaIPTV.m3u8
@@ -41,7 +41,7 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/FamiliaIPTV.m3u8
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/27-live.m3u8
 
 #EXTINF:-1 ext_id="CMTV" tvg-logo="https://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png/medium",CMTV
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13670.m3u8
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13670.ts
 
 #EXTINF:-1 ext_id="14" tvg-logo="https://www.thelogodb.com/images/media/logo/ustqwy1436891230.png",SIC RADICAL
 http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
@@ -73,51 +73,47 @@ http://streaming57.sitehosting.com.br:1935/redesim/redesim/FamiliaIPTV.m3u8
 #EXTINF:-1 ext_id="rtp1.pt" tvg-logo="https://dl-web.meocloud.pt/dlweb/download/addon%20family/fanart%20e%20icon/icon.png?public=64e41e54-810f-49f4-9cc2-9ecacc48b15c",FILMES
 Http://google.pt
 
-#EXTINF:-1 ext_id="149"tvg-logo="https://www.thelogodb.com/images/media/logo/sxpuvs1436896350.png/medium",TV CINE 1 FULL HD [TESTE]
-http://ptiptv.dyndns.tv:8000/live/facebook/facebook234/351.ts
+#EXTINF:-1 ext_id="149"tvg-logo="https://www.thelogodb.com/images/media/logo/sxpuvs1436896350.png/medium",TV CINE 1
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13651.ts
 
 #EXTINF:-1 ext_id="77"tvg-logo="https://www.thelogodb.com/images/media/logo/rvtxww1436896380.png/medium",TV CINE 4 FULL HD [TESTE]
-http://ptiptv.dyndns.tv:8000/live/facebook/facebook234/352.ts
 
 #EXTINF:-1 ext_id="182"tvg-logo="https://www.thelogodb.com/images/media/logo/wxswvq1433343102.png/medium",AXN HD
-http://ptiptv.dyndns.tv:8000/live/facebook/facebook234/640.ts
 
 #EXTINF:-1 ext_id="107"tvg-logo="https://www.thelogodb.com/images/media/logo/qtturr1433362023.png/medium",FOX HD
-http://ptiptv.dyndns.tv:8000/live/facebook/facebook234/639.ts
-
 
 #EXTINF:-1 ext_id="rtp1.pt" tvg-logo="https://dl-web.meocloud.pt/dlweb/download/addon%20family/fanart%20e%20icon/icon.png?public=64e41e54-810f-49f4-9cc2-9ecacc48b15c",ANIMAÇÃO
 Http://google.pt
 
 #EXTINF:-1 ext_id="27"tvg-logo="https://www.thelogodb.com/images/media/logo/qxqrts1466447152.png/medium",PANDA (Temp)
-http://worldcs.info:8080/live/ster/ster/691.m3u8
+http://37.187.135.168:5500/live/Teodoro/Teodoro/67.m3u8
 
 #EXTINF:-1 ext_id="146"tvg-logo="https://www.thelogodb.com/images/media/logo/sqttxp1433353102.png/medium",PANDA BIGS(Temp)
-http://worldcs.info:8080/live/ster/ster/644.m3u8
+http://37.187.135.168:5500/live/Teodoro/Teodoro/48.m3u8
 
 #EXTINF:-1 ext_id="193"tvg-logo="https://www.thelogodb.com/images/media/logo/qrqxyp1433430351.png/medium",DISNEY JR(Temp)
-http://worldcs.info:8080/live/ster/ster/689.m3u8
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13624.ts
 
 #EXTINF:-1 ext_id="126"tvg-logo="https://www.thelogodb.com/images/media/logo/yupwrv1435102443.png/medium",JIM JAM(Temp)
-http://worldcs.info:8080/live/ster/ster/692.m3u8
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13621.ts
 
 #EXTINF:-1 ext_id="35"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",BABY TV(Temp)
-http://worldcs.info:8080/live/ster/ster/695.m3u8
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13622.ts
 
 #EXTINF:-1 ext_id="rtp1.pt" tvg-logo="https://dl-web.meocloud.pt/dlweb/download/addon%20family/fanart%20e%20icon/icon.png?public=64e41e54-810f-49f4-9cc2-9ecacc48b15c",DESPORTO
 http://google.pt
 
 #EXTINF:-1 ext_id="151"tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium",SPORT TV 1 HD (temp)
-http://ptiptv.dyndns.tv:8000/live/facebook/facebook234/57.m3u8
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13612.ts
 
 #EXTINF:-1 ext_id="231"tvg-logo="https://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium",Benfica Tv (temp)
-http://worldcs.info:8080/live/ster/ster/728.m3u8
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13604.ts
 
 #EXTINF:-1 ext_id="231"tvg-logo="https://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium",Benfica Tv (temp1)
-http://worldcs.info:8080/live/ster/ster/633.m3u8
+http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2244.m3u8
 
 #EXTINF:-1 ext_id="231"tvg-logo="https://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium",Benfica Tv (temp2)
-http://ptiptv.dyndns.tv:8000/live/facebook/facebook234/643.m3u8
+http://37.187.135.168:5500/live/Teodoro/Teodoro/40.m3u8
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/trrqwt1433356293.png/medium",Real Madrid Tv
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/FamiliaIPTV.m3u8
