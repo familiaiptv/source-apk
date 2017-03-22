@@ -289,7 +289,7 @@ http://rr.sapo.pt/videojs/black.mp4
 #EXTINF:-1 ext_id="teste"tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/15803163-276402364-logoRFM.jpg" type="RADIO",RFM
 http://19573.live.streamtheworld.com/RFMAAC_SC
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://cidade.iol.pt/images/logo.png" type="RADIO",CIDADE Fm
+#EXTINF:-1 ext_id="teste"tvg-logo="http://cidade.iol.pt/images/logo.png" type="RADIO",CIDADE FM
 http://mcrscast.mcr.iol.pt/cidadefm?rnd=57029.37831225265
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2008/09/logo80RFMPlayer.png" type="RADIO",RFM 80
@@ -310,8 +310,17 @@ https://streaming-live.rtp.pt/liveradio/antena280a/familiaiptv.m3u8
 #EXTINF:-1 ext_id="teste"tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/6c/RDP_Antena_3.png/revision/latest?cb=20100225123429" type="RADIO",Antena 3
 https://streaming-live.rtp.pt/liveradio/antena380a/familiaiptv.m3u8
 
-#EXTINF:-1 ext_id="teste"tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_38r59q5ou-K1mBEGlkZai9W4Ux-k19fH2XBLfumAfs6jGvtrZRtb53j4" type="RADIO",RADIO COMERCIAL
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/txtrqy1435096777.png/medium" type="RADIO",RADIO COMERCIAL
 http://mcrscast.mcr.iol.pt/comercial.mp3
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.radioplacard.pt/files/32/781.png" type="RADIO",RADIO PLACARD
+http://213.239.218.99:7098/;?1475760096281.aac
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://cdn-radiotime-logos.tunein.com/s84111q.png" type="RADIO",RADIO FESTIVAL
+http://centova.radios.pt:9520/stream/1/
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/xpsxsy1435080103.png/medium" type="RADIO",TSF
+http://tsfdirecto.tsf.pt/tsfdirecto.mp3
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://horrorpediadotcom.files.wordpress.com/2016/02/emelie-film-poster.png?w=343&h=467" type="MOVIE",Emelie
 https://lh3.googleusercontent.com/aCgORx1qNVCU44u8hMN4U-CPEfDJURh6odJ5O_UWqrpKKo7AQopanzGzmlwWgTPXtIhvpCnA=m22
