@@ -126,6 +126,9 @@ http://37.187.135.168:5500/live/Teodoro/Teodoro/40.m3u8
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/trrqwt1433356293.png/medium",Real Madrid Tv
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/FamiliaIPTV.m3u8
 
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/wuyqur1434267176.png/medium",EUROSPORT UK
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+
 #EXTINF:-1 ext_id="408"tvg-logo="http://www.thelogodb.com/images/media/logo/vqrwpt1481664823.png/medium",SPORTTV + HD				 
 acestream://b77a073233900b451e33b334a740ac16f624692b
 
@@ -145,7 +148,6 @@ acestream://97cad444355dfeeb9810834c0c8225c52041f5d3
 acestream://b4d0535ed13cd606a1441aaed6a77a7ddfcd6340
 
 #EXTINF:-1 ext_id="rtp1.pt" tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png", Liga Nos jornada 26
-http://google.pt
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png",Arenavision 8 
 
@@ -155,7 +157,7 @@ http://google.pt
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png",Arenavision 12
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://motogp.teamtech3.fr/images/grid-sponsors-NB/Motogp.png",MOTO GP
+#EXTINF:-1 ext_id="teste"tvg-logo="https://dl-web.meocloud.pt/dlweb/download/addon%20family/fanart%20e%20icon/icon.png?public=64e41e54-810f-49f4-9cc2-9ecacc48b15c",MOTO GP
 Http://google.pt
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://motogp.teamtech3.fr/images/grid-sponsors-NB/Motogp.png",ARENA 1
@@ -257,51 +259,6 @@ acestream://7b895e1f84448594b018e41afe39c5514ca91025
 #EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png",Channel 30
 acestream://58fb70baae34d2ba94b0ba6c8021bf2547de6e47
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://www.thelogodb.com/images/media/logo/tutyvx1474667310.png/medium",EUROSPORT 1 FR
-acestream://5e8ce8246cdeb0c711079cb45bc435ad80c1f8be
-
-#EXTINF:-1 ext_id="teste"tvg-logo="http://www.thelogodb.com/images/media/logo/xvuxxt1474667338.png/medium",EUROSPORT 2 FR
-acestream://21cfb8e3969c0841f23fdf7a7177ffe48a35eb75
-
-#EXTINF:-1 ext_id="teste"tvg-logo="http://www.thelogodb.com/images/media/logo/tutyvx1474667310.png/medium",EUROSPORT 1 UK
-acestream://3583e22124c68f5c3419345ee948163d82a4fd08
-
-#EXTINF:-1 ext_id="teste"tvg-logo="http://www.thelogodb.com/images/media/logo/xvuxxt1474667338.png/medium",EUROSPORT 2 UK
-acestream://ee151e7bf471ff85ecf45795c835fb8fb77d6ed2
-
-#EXTINF:-1 ext_id="66"tvg-logo="https://www.thelogodb.com/images/media/logo/tsqstw1436894693.png/medium",PFC
-acestream://63a276fe3657bd2ba0ba81f35cbb1be5426cc4ca
-
-#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/ruvrus1437612002.png/medium",SPORTV
-acestream://9f62433aaf97d078e35266a67615638fee6387e0
-
-#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/rspqxw1437612159.png/medium",SPORTV 2
-acestream://2ac141722340b046a524ff63e19ed9d6f799eab1
-
-#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/yuusqs1437612244.png/medium",SPORTV 3
-acestream://e6617659dba3d4dcf5fcf113ec444f33f4654424
-
-#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png",FOX SPORT 
-acestream://ba82bd48af57b87aa00d9b0bd2451dcc4391f4b6
-
-#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png",FOX SPORT 2
-acestream://12355061ec21ead33f5b393ecd34e2f2399199c0
-
-#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/xqwpww1436887616.png/medium",Real Madrid TV
-acestream://677b613d289b71812cbee35c6948a27161a50b7f
-
-#EXTINF:-1 ext_id="rtp1.pt" tvg-logo="https://dl-web.meocloud.pt/dlweb/download/addon%20family/fanart%20e%20icon/icon.png?public=64e41e54-810f-49f4-9cc2-9ecacc48b15c",´Música
-http://google.pt
-
-#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/wpqwrq1433965505.png/medium",VH1
-acestream://279d53e443f10ca10d0efb23516ce01b4cdf3fd8
-
-#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/wrrvup1438373929.png/medium",MTV UK
-acestream://3ebe9cd231fa535224e61813589fcf7b1a0ac293
-
-#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/xtrusx1438373976.png/medium",MTV MUSIC UK
-acestream://61904fc4378abd19220171f173f0183f7f39d0ea
-
 #EXTINF:-1 ext_id="teste"tvg-logo="http://www.wmoc2008.fpo.pt/logos/logo_94FM.jpg" type="RADIO",94 FM
 http://195.8.58.150:35022/;stream.mp3
 
@@ -341,6 +298,8 @@ http://94.23.76.235:9956/;stream/1
 #EXTINF:-1 ext_id="teste"tvg-logo="http://www.ruc.pt/wp-content/themes/ruc/images/logo.png" type="RADIO",Rádio Universidade de Coimbra
 http://ruc2.cidadedecoimbra.com:8000/
 
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/uqppyr1435076288.png/medium" type="RADIO",Antena 1
+https://streaming-live.rtp.pt/liveradio/antena180a/familiaiptv.m3u8
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://horrorpediadotcom.files.wordpress.com/2016/02/emelie-film-poster.png?w=343&h=467" type="MOVIE",Emelie
 https://lh3.googleusercontent.com/aCgORx1qNVCU44u8hMN4U-CPEfDJURh6odJ5O_UWqrpKKo7AQopanzGzmlwWgTPXtIhvpCnA=m22
