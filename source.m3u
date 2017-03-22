@@ -126,8 +126,8 @@ http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2244.m3u8
 #EXTINF:-1 ext_id="231"tvg-logo="https://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium",Benfica Tv (temp2)
 http://37.187.135.168:5500/live/Teodoro/Teodoro/40.m3u8
 
-#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/trrqwt1433356293.png/medium",Real Madrid Tv
-http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/FamiliaIPTV.m3u8
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/trrqwt1433356293.png/medium",Real Madrid Tv teste
+http://127.0.0.1:6878/ace/m/ad27bdcdda96b11664c045f3cdb5068fddac0f0a/6f80437ed4fe87d834b5fab4db5d1fae.m3u8
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/wuyqur1434267176.png/medium",EUROSPORT UK
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
