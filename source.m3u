@@ -87,7 +87,7 @@ http://213.228.128.27/hlsl/1/AXN/04.m3u8
 #EXTINF:-1 ext_id="107"tvg-logo="https://www.thelogodb.com/images/media/logo/qtturr1433362023.png/medium",FOX HD
 http://213.228.128.27/hlsl/1/Fox/04.m3u8
 
-#EXTINF:-1 ext_id="107"tvg-logo="https://www.thelogodb.com/images/media/logo/qurqxu1434048222.png",FOX LIFE
+#EXTINF:-1 ext_id="104"tvg-logo="https://www.thelogodb.com/images/media/logo/qurqxu1434048222.png",FOX LIFE
 http://213.228.128.27/hlsl/1/FoxLife/04.m3u8
 
 #EXTINF:-1 ext_id="rtp1.pt" tvg-logo="https://dl-web.meocloud.pt/dlweb/download/addon%20family/fanart%20e%20icon/icon.png?public=64e41e54-810f-49f4-9cc2-9ecacc48b15c",ANIMAÇÃO
@@ -100,13 +100,13 @@ http://37.187.135.168:5500/live/Teodoro/Teodoro/67.m3u8
 http://37.187.135.168:5500/live/Teodoro/Teodoro/48.m3u8
 
 #EXTINF:-1 ext_id="193"tvg-logo="https://www.thelogodb.com/images/media/logo/qrqxyp1433430351.png/medium",DISNEY JR(Temp)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13624.ts
+
 
 #EXTINF:-1 ext_id="126"tvg-logo="https://www.thelogodb.com/images/media/logo/yupwrv1435102443.png/medium",JIM JAM(Temp)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13621.ts
+http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1710.m3u8
 
 #EXTINF:-1 ext_id="35"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",BABY TV(Temp)
-http://www.wedobox.eu:8000/live/line09/gSq01fAByj/13622.ts
+
 
 #EXTINF:-1 ext_id="rtp1.pt" tvg-logo="https://dl-web.meocloud.pt/dlweb/download/addon%20family/fanart%20e%20icon/icon.png?public=64e41e54-810f-49f4-9cc2-9ecacc48b15c",DESPORTO
 http://google.pt
