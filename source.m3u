@@ -96,6 +96,9 @@ Http://google.pt
 #EXTINF:-1 ext_id="27"tvg-logo="https://www.thelogodb.com/images/media/logo/qxqrts1466447152.png/medium",PANDA (Temp)
 http://37.187.135.168:5500/live/Teodoro/Teodoro/67.m3u8
 
+#EXTINF:-1 ext_id="27"tvg-logo="https://www.thelogodb.com/images/media/logo/qxqrts1466447152.png/medium",PANDA
+http://213.228.128.27/hlsl/1/Panda/04.m3u8
+
 #EXTINF:-1 ext_id="146"tvg-logo="https://www.thelogodb.com/images/media/logo/sqttxp1433353102.png/medium",PANDA BIGS(Temp)
 http://37.187.135.168:5500/live/Teodoro/Teodoro/48.m3u8
 
