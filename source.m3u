@@ -289,7 +289,7 @@ http://rr.sapo.pt/videojs/black.mp4
 #EXTINF:-1 ext_id="teste"tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/15803163-276402364-logoRFM.jpg" type="RADIO",RFM
 http://19573.live.streamtheworld.com/RFMAAC_SC
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://cidade.iol.pt/images/logo.png" type="RADIO",CIDADE FM
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/yywvqp1466187070.png/medium" type="RADIO",CIDADE FM
 http://mcrscast.mcr.iol.pt/cidadefm?rnd=57029.37831225265
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2008/09/logo80RFMPlayer.png" type="RADIO",RFM 80
