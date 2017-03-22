@@ -310,6 +310,9 @@ https://streaming-live.rtp.pt/liveradio/antena280a/familiaiptv.m3u8
 #EXTINF:-1 ext_id="teste"tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/6c/RDP_Antena_3.png/revision/latest?cb=20100225123429" type="RADIO",Antena 3
 https://streaming-live.rtp.pt/liveradio/antena380a/familiaiptv.m3u8
 
+#EXTINF:-1 ext_id="teste"tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_38r59q5ou-K1mBEGlkZai9W4Ux-k19fH2XBLfumAfs6jGvtrZRtb53j4" type="RADIO",RADIO COMERCIAL
+http://mcrscast.mcr.iol.pt/comercial.mp3
+
 #EXTINF:-1 ext_id="teste"tvg-logo="https://horrorpediadotcom.files.wordpress.com/2016/02/emelie-film-poster.png?w=343&h=467" type="MOVIE",Emelie
 https://lh3.googleusercontent.com/aCgORx1qNVCU44u8hMN4U-CPEfDJURh6odJ5O_UWqrpKKo7AQopanzGzmlwWgTPXtIhvpCnA=m22
 
