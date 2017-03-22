@@ -301,6 +301,12 @@ http://ruc2.cidadedecoimbra.com:8000/
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/uqppyr1435076288.png/medium" type="RADIO",Antena 1
 https://streaming-live.rtp.pt/liveradio/antena180a/familiaiptv.m3u8
 
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/ytvypx1435078130.png/medium" type="RADIO",Antena 2
+https://streaming-live.rtp.pt/liveradio/antena280a/familiaiptv.m3u8
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/6c/RDP_Antena_3.png/revision/latest?cb=20100225123429" type="RADIO",Antena 3
+
+
 #EXTINF:-1 ext_id="teste"tvg-logo="https://horrorpediadotcom.files.wordpress.com/2016/02/emelie-film-poster.png?w=343&h=467" type="MOVIE",Emelie
 https://lh3.googleusercontent.com/aCgORx1qNVCU44u8hMN4U-CPEfDJURh6odJ5O_UWqrpKKo7AQopanzGzmlwWgTPXtIhvpCnA=m22
 
