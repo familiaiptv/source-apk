@@ -3,7 +3,7 @@
 #EXTINF:-1 ext_id="rtp1.pt" tvg-logo="https://dl-web.meocloud.pt/dlweb/download/addon%20family/fanart%20e%20icon/icon.png?public=64e41e54-810f-49f4-9cc2-9ecacc48b15c",GENÉRICOS
 Http://google.pt
 
-#EXTINF:-1 ext_id="171"rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rtysxv1466191624.png/small",RTP 1(teste)
+#EXTINF:-1 ext_id="171"rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rtysxv1466191624.png/small",RTP 1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist_b640000_slpt.m3u8
 
 #EXTINF:-1 ext_id="172" tvg-logo="http://www.thelogodb.com/images/media/logo/yvttxv1466191438.png/small",RTP 2
