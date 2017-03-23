@@ -133,22 +133,16 @@ http://127.0.0.1:6878/ace/m/ad27bdcdda96b11664c045f3cdb5068fddac0f0a/6f80437ed4f
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 
 #EXTINF:-1 ext_id="408"tvg-logo="http://www.thelogodb.com/images/media/logo/vqrwpt1481664823.png/medium",SPORTTV + HD				 
-acestream://b77a073233900b451e33b334a740ac16f624692b
 
 #EXTINF:-1 ext_id="151"tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium",SPORTTV 1 HD
-acestream://2adeeb1c9c148389ac45606111a74a0ab9bf661b
 
 #EXTINF:-1 ext_id="152"tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png",SPORTTV 2 HD
-acestream://03be839009b74b87429e2969b569022ce8bd1fcb
 
 #EXTINF:-1 ext_id="153"tvg-logo="https://www.thelogodb.com/images/media/logo/wwsuqv1470409839.png/medium",SPORTTV 3 HD
-acestream://470b2611df987f6c22caceee8249f705c351a7e0
 
 #EXTINF:-1 ext_id="153"tvg-logo="https://www.thelogodb.com/images/media/logo/vuytwx1470409983.png/medium",SPORTTV 4 HD
-acestream://97cad444355dfeeb9810834c0c8225c52041f5d3
 
 #EXTINF:-1 ext_id="112"tvg-logo="https://www.thelogodb.com/images/media/logo/uvpqvr1470410094.png/medium",SPORTTV 5
-acestream://b4d0535ed13cd606a1441aaed6a77a7ddfcd6340
 
 #EXTINF:-1 ext_id="rtp1.pt" tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png", Liga Nos jornada 26
 
