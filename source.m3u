@@ -19,7 +19,7 @@ http://213.228.128.27/hlsl/1/SIC/04.m3u8
 http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/FamiliaIptv.m3u8
 
 #EXTINF:-1 ext_id="173" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/small",SIC (temp)
-http://185.73.239.23:8000/live/000000/111111/2622.ts
+http://37.187.135.168:5500/live/Teodoro/Teodoro/548.m3u8
 
 #EXTINF:-1 ext_id="174" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png/small",TVI
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/FamiliaIPTV.m3u8
@@ -77,9 +77,10 @@ http://213.228.128.27/hlsl/1/Discovery/04.m3u8
 Http://google.pt
 
 #EXTINF:-1 ext_id="149"tvg-logo="https://www.thelogodb.com/images/media/logo/sxpuvs1436896350.png/medium",TV CINE 1
-http://185.73.239.23:8000/live/000000/111111/2627.ts
+http://37.187.135.168:5500/live/Teodoro/Teodoro/12.m3u8
 
 #EXTINF:-1 ext_id="77"tvg-logo="https://www.thelogodb.com/images/media/logo/rvtxww1436896380.png/medium",TV CINE 4 FULL HD [TESTE]
+http://37.187.135.168:5500/live/Teodoro/Teodoro/15.m3u8
 
 #EXTINF:-1 ext_id="182"tvg-logo="https://www.thelogodb.com/images/media/logo/wxswvq1433343102.png/medium",AXN HD
 http://213.228.128.27/hlsl/1/AXN/04.m3u8
@@ -117,13 +118,13 @@ https://streaming-live.rtp.pt/liverepeater/smil:zigzag.smil/familiaiptv.m3u8
 http://google.pt
 
 #EXTINF:-1 ext_id="151"tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium",SPORT TV 1 HD (temp)
-http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1811.m3u8
+http://37.187.135.168:5500/live/Teodoro/Teodoro/33.m3u8
 
 #EXTINF:-1 ext_id="231"tvg-logo="https://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium",Benfica Tv (temp)
 
 
 #EXTINF:-1 ext_id="231"tvg-logo="https://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium",Benfica Tv (temp1)
-http://185.73.239.23:8000/live/000000/111111/8356.ts
+
 
 #EXTINF:-1 ext_id="231"tvg-logo="https://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium",Benfica Tv (temp2)
 http://37.187.135.168:5500/live/Teodoro/Teodoro/40.m3u8
@@ -152,6 +153,7 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_18
 #EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png",Arenavision 11
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png",Arenavision 12
+
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://dl-web.meocloud.pt/dlweb/download/addon%20family/fanart%20e%20icon/icon.png?public=64e41e54-810f-49f4-9cc2-9ecacc48b15c",MOTO GP
 Http://google.pt
