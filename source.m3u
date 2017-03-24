@@ -144,7 +144,7 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_18
 
 #EXTINF:-1 ext_id="112"tvg-logo="https://www.thelogodb.com/images/media/logo/uvpqvr1470410094.png/medium",SPORTTV 5
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://motogp.teamtech3.fr/images/grid-sponsors-NB/Motogp.png" type="ACESTREAM",Acestream guide 1
+#EXTINF:-1 ext_id="teste"tvg-logo="https://dl-web.meocloud.pt/dlweb/download/addon%20family/fanart%20e%20icon/icon.png?public=64e41e54-810f-49f4-9cc2-9ecacc48b15c" type="ACESTREAM",ArenaVision Guia de Tv
 http://arenavision.ru/schedule?browser=1
 
 #EXTINF:-1 ext_id="rtp1.pt" tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png" type="ACESTREAM",Liga Nos jornada 26
@@ -170,10 +170,10 @@ acestream://6ec049a407ea9272cf00e6ec92a950d88d4e8169
 #EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM",Arenavision
 Http://google.pt
 
-#EXTINF:-1 ext_id="151"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM",Channel 1 
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM",Channel 1 
 acestream://73221f70964a6103f4466d6c7b22938a9262f299
 
-#EXTINF:-1 ext_id="151"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM",Channel 2 
+#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM",Channel 2 
 acestream://6e8ded6f00e5f8c4b31fdee7bbae13e44f01eb04
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM",Channel 3
