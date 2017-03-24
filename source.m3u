@@ -144,7 +144,7 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_18
 
 #EXTINF:-1 ext_id="112"tvg-logo="https://www.thelogodb.com/images/media/logo/uvpqvr1470410094.png/medium",SPORTTV 5
 
-#EXTINF:-1 ext_id="teste"tvg-logo="https://dl-web.meocloud.pt/dlweb/download/addon%20family/fanart%20e%20icon/icon.png?public=64e41e54-810f-49f4-9cc2-9ecacc48b15c" type="ACESTREAM",ArenaVision Guia de Tv
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/TV_Guide_Logo.png" type="ACESTREAM",ARENAVISION GUIA DE TV
 http://arenavision.ru/schedule?browser=1
 
 #EXTINF:-1 ext_id="rtp1.pt" tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png" type="ACESTREAM",Liga Nos jornada 26
