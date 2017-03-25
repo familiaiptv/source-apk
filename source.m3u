@@ -91,6 +91,9 @@ http://213.228.128.27/hlsl/1/Fox/04.m3u8
 #EXTINF:-1 ext_id="104"tvg-logo="https://www.thelogodb.com/images/media/logo/qurqxu1434048222.png",FOX LIFE
 http://213.228.128.27/hlsl/1/FoxLife/04.m3u8
 
+#EXTINF:-1 ext_id="104"tvg-logo="https://www.thelogodb.com/images/media/logo/vqtrqu1436898965.png/medium",Hollywood
+http://213.228.128.27/hlsl/1/Hollywood/04.m3u8
+
 #EXTINF:-1 ext_id="rtp1.pt" tvg-logo="https://dl-web.meocloud.pt/dlweb/download/addon%20family/fanart%20e%20icon/icon.png?public=64e41e54-810f-49f4-9cc2-9ecacc48b15c",ANIMAÇÃO
 Http://google.pt
 
