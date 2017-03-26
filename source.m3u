@@ -19,7 +19,7 @@ http://213.228.128.27/hlsl/1/SIC/04.m3u8
 http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/FamiliaIptv.m3u8
 
 #EXTINF:-1 ext_id="173" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/small",SIC (temp)
-http://37.187.135.168:5500/live/Teodoro/Teodoro/548.m3u8
+http://ip.cs4ip.com:8000/live/zero99/zero99/4531.m3u8
 
 #EXTINF:-1 ext_id="174" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png/small",TVI
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/FamiliaIPTV.m3u8
@@ -29,7 +29,6 @@ http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 
 #EXTINF:-1 ext_id="413" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/small",SIC NOTÍCIAS
 http://familiaiptv://213.228.128.27/hlsl/1/SICN/04.m3u8
-
 
 #EXTINF:-1 ext_id="3" tvg-logo="http://www.thelogodb.com/images/media/logo/uvtqyy1461670745.png/small",RTP3
 https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/chunklist_b640000_slpt.m3u8
@@ -41,7 +40,7 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/FamiliaIPTV.m3u8
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/27-live.m3u8
 
 #EXTINF:-1 ext_id="CMTV" tvg-logo="https://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png/medium",CMTV
-http://185.73.239.23:8000/live/000000/111111/6287.ts
+http://ip.cs4ip.com:8000/live/zero99/zero99/4477.m3u8
 
 #EXTINF:-1 ext_id="14" tvg-logo="https://www.thelogodb.com/images/media/logo/ustqwy1436891230.png",SIC RADICAL
 http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
@@ -76,11 +75,11 @@ http://213.228.128.27/hlsl/1/Discovery/04.m3u8
 #EXTINF:-1 ext_id="rtp1.pt" tvg-logo="https://dl-web.meocloud.pt/dlweb/download/addon%20family/fanart%20e%20icon/icon.png?public=64e41e54-810f-49f4-9cc2-9ecacc48b15c",FILMES
 Http://google.pt
 
-#EXTINF:-1 ext_id="149"tvg-logo="https://www.thelogodb.com/images/media/logo/sxpuvs1436896350.png/medium",TV CINE 1
-http://37.187.135.168:5500/live/Teodoro/Teodoro/12.m3u8
+#EXTINF:-1 ext_id="149"tvg-logo="https://www.thelogodb.com/images/media/logo/sxpuvs1436896350.png/medium",TV CINE 1 (Temp)
+http://ip.cs4ip.com:8000/live/zero99/zero99/4496.m3u8
 
-#EXTINF:-1 ext_id="77"tvg-logo="https://www.thelogodb.com/images/media/logo/rvtxww1436896380.png/medium",TV CINE 4 FULL HD [TESTE]
-http://37.187.135.168:5500/live/Teodoro/Teodoro/15.m3u8
+#EXTINF:-1 ext_id="77"tvg-logo="https://www.thelogodb.com/images/media/logo/rvtxww1436896380.png/medium",TV CINE 4 [Temp]
+http://ip.cs4ip.com:8000/live/zero99/zero99/4499.m3u8
 
 #EXTINF:-1 ext_id="182"tvg-logo="https://www.thelogodb.com/images/media/logo/wxswvq1433343102.png/medium",AXN HD
 http://213.228.128.27/hlsl/1/AXN/04.m3u8
@@ -98,21 +97,22 @@ http://213.228.128.27/hlsl/1/Hollywood/04.m3u8
 Http://google.pt
 
 #EXTINF:-1 ext_id="27"tvg-logo="https://www.thelogodb.com/images/media/logo/qxqrts1466447152.png/medium",PANDA (Temp)
-http://37.187.135.168:5500/live/Teodoro/Teodoro/67.m3u8
+http://ip.cs4ip.com:8000/live/zero99/zero99/4475.m3u8
 
 #EXTINF:-1 ext_id="27"tvg-logo="https://www.thelogodb.com/images/media/logo/qxqrts1466447152.png/medium",PANDA
 http://213.228.128.27/hlsl/1/Panda/04.m3u8
 
 #EXTINF:-1 ext_id="146"tvg-logo="https://www.thelogodb.com/images/media/logo/sqttxp1433353102.png/medium",PANDA BIGS(Temp)
-http://37.187.135.168:5500/live/Teodoro/Teodoro/48.m3u8
+
 
 #EXTINF:-1 ext_id="193"tvg-logo="https://www.thelogodb.com/images/media/logo/qrqxyp1433430351.png/medium",DISNEY JR(Temp)
-http://185.73.239.23:8000/live/000000/111111/2651.ts
+
 
 #EXTINF:-1 ext_id="126"tvg-logo="https://www.thelogodb.com/images/media/logo/yupwrv1435102443.png/medium",JIM JAM(Temp)
 http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1710.m3u8
 
 #EXTINF:-1 ext_id="35"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",BABY TV(Temp)
+http://ip.cs4ip.com:8000/live/zero99/zero99/4509.m3u8
 
 #EXTINF:-1 ext_id="4"tvg-logo="http://www.shoppingconquistasul.com.br/wp-content/uploads/2014/10/zigzagplay-nova-250x180.png",ZIG ZAG
 https://streaming-live.rtp.pt/liverepeater/smil:zigzag.smil/familiaiptv.m3u8
@@ -121,16 +121,16 @@ https://streaming-live.rtp.pt/liverepeater/smil:zigzag.smil/familiaiptv.m3u8
 http://google.pt
 
 #EXTINF:-1 ext_id="151"tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium",SPORT TV 1 HD (temp)
-http://37.187.135.168:5500/live/Teodoro/Teodoro/33.m3u8
+http://ip.cs4ip.com:8000/live/zero99/zero99/4490.m3u8
 
 #EXTINF:-1 ext_id="231"tvg-logo="https://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium",Benfica Tv (temp)
-
+http://ip.cs4ip.com:8000/live/zero99/zero99/4474.m3u8
 
 #EXTINF:-1 ext_id="231"tvg-logo="https://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium",Benfica Tv (temp1)
 
 
 #EXTINF:-1 ext_id="231"tvg-logo="https://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium",Benfica Tv (temp2)
-http://37.187.135.168:5500/live/Teodoro/Teodoro/40.m3u8
+
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/wuyqur1434267176.png/medium",EUROSPORT UK
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
