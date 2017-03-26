@@ -103,10 +103,13 @@ http://ip.cs4ip.com:8000/live/zero99/zero99/4475.m3u8
 http://213.228.128.27/hlsl/1/Panda/04.m3u8
 
 #EXTINF:-1 ext_id="146"tvg-logo="https://www.thelogodb.com/images/media/logo/sqttxp1433353102.png/medium",PANDA BIGS(Temp)
-
+http://iptv.iptvthebest.net:15000/live/kjfshd78343/112w92yzx1/14717.m3u8
 
 #EXTINF:-1 ext_id="193"tvg-logo="https://www.thelogodb.com/images/media/logo/qrqxyp1433430351.png/medium",DISNEY JR(Temp)
+http://ipsatpro.info:8000/live/rW2sug2cfH/WqW5IEZv13/905.m3u8
 
+#EXTINF:-1 ext_id="193"tvg-logo="https://www.thelogodb.com/images/media/logo/qrqxyp1433430351.png/medium",DISNEY JR(Temp)
+http://ipsatpro.info:8000/live/3Zd2rjjNFO/oWj3AN7XKl/905.m3u8
 
 #EXTINF:-1 ext_id="126"tvg-logo="https://www.thelogodb.com/images/media/logo/yupwrv1435102443.png/medium",JIM JAM(Temp)
 http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1710.m3u8
