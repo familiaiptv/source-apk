@@ -347,10 +347,10 @@ http://centova.radios.pt:8497/stream/1/
 #EXTINF:-1 ext_id="teste"tvg-logo="http://activeclient.com.br/imagens/icon_teste.png" type="MOVIE"group_id="1", teste
 http:google.pt
 
-#EXTINF:-1 ext_id="teste"tvg-logo="https://horrorpediadotcom.files.wordpress.com/2016/02/emelie-film-poster.png?w=343&h=467" type="MOVIE"parent_id="1",Emelie
+#EXTINF:-1 ext_id="teste"tvg-logo="https://horrorpediadotcom.files.wordpress.com/2016/02/emelie-film-poster.png?w=343&h=467" type="MOVIE" parent_id="1",Emelie
 https://lh3.googleusercontent.com/aCgORx1qNVCU44u8hMN4U-CPEfDJURh6odJ5O_UWqrpKKo7AQopanzGzmlwWgTPXtIhvpCnA=m22
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://t3.gstatic.com/images?q=tbn:ANd9GcQQloplsKd84kuaNOuicq7jHt4qzCtAI_DNmzK31eSFZcVkX3Wu" type="MOVIE",Nina
+#EXTINF:-1 ext_id="teste"tvg-logo="http://t3.gstatic.com/images?q=tbn:ANd9GcQQloplsKd84kuaNOuicq7jHt4qzCtAI_DNmzK31eSFZcVkX3Wu" type="MOVIE" parent_id="1",Nina
 https://lh3.googleusercontent.com/nH4WcmwSj-Fd93N1fraUxL7hMtAeT8jq708gz9DlSO2z938fODS3ochwlX-N9xX9yidOYQun=m22
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img2.acsta.net/newsv7/16/04/26/22/24/190958.jpg" type="MOVIE",Cell
