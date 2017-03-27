@@ -123,7 +123,7 @@ http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1710.m3u8
 #EXTINF:-1 ext_id="35"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",BABY TV(Temp)
 http://ip.cs4ip.com:8000/live/zero99/zero99/4509.m3u8
 
-#EXTINF:-1 ext_id="4"tvg-logo="http://www.shoppingconquistasul.com.br/wp-content/uploads/2014/10/zigzagplay-nova-250x180.png",ZIG ZAG
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.shoppingconquistasul.com.br/wp-content/uploads/2014/10/zigzagplay-nova-250x180.png",ZIG ZAG
 https://streaming-live.rtp.pt/liverepeater/smil:zigzag.smil/familiaiptv.m3u8
 
 #EXTINF:-1 ext_id="rtp1.pt" tvg-logo="https://dl-web.meocloud.pt/dlweb/download/addon%20family/fanart%20e%20icon/icon.png?public=64e41e54-810f-49f4-9cc2-9ecacc48b15c",DESPORTO
