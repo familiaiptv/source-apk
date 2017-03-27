@@ -69,7 +69,10 @@ http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
 #EXTINF:-1 ext_id="155"tvg-logo="https://www.thelogodb.com/images/media/logo/twwwyr1436891006.png",RECORD NEWS 
 http://streaming57.sitehosting.com.br:1935/redesim/redesim/FamiliaIPTV.m3u8
 
-#EXTINF:-1 ext_id="155"tvg-logo="https://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png/medium",DISCOVERY CHANNEL 
+#EXTINF:-1 ext_id="238"tvg-logo="https://www.thelogodb.com/images/media/logo/xrpwsp1436890926.png/medium",TV RECORD 
+http://213.228.128.27/hlsl/1/TVRecord/04.m3u8
+
+#EXTINF:-1 ext_id="387"tvg-logo="https://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png/medium",DISCOVERY CHANNEL 
 http://213.228.128.27/hlsl/1/Discovery/04.m3u8
 
 #EXTINF:-1 ext_id="rtp1.pt" tvg-logo="https://dl-web.meocloud.pt/dlweb/download/addon%20family/fanart%20e%20icon/icon.png?public=64e41e54-810f-49f4-9cc2-9ecacc48b15c",FILMES
