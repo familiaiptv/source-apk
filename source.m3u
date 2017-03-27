@@ -188,31 +188,31 @@ acestream://73221f70964a6103f4466d6c7b22938a9262f299
 #EXTINF:-1 ext_id="teste"tvg-logo="https://cld.pt/dl/download/a30f260a-a358-4c52-b572-cc6ca6e4c2e6/arena2.jpg" type="ACESTREAM",Channel 2 
 acestream://6e8ded6f00e5f8c4b31fdee7bbae13e44f01eb04
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM",Channel 3
+#EXTINF:-1 ext_id="teste"tvg-logo="https://cld.pt/dl/download/8b44a602-8e67-455b-89ae-858af01f0562/arena3.jpg" type="ACESTREAM",Channel 3
 acestream://6ea486ae42aac5ec6a2d2ba14b01540a728805c0
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM",Channel 4
+#EXTINF:-1 ext_id="teste"tvg-logo="https://cld.pt/dl/download/6e3427de-3bbb-46be-be87-992d27b5bfdc/arena4.jpg" type="ACESTREAM",Channel 4
 acestream://eda3913d292c7f65fe427853d019dae31c02cadc
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM",Channel 5
+#EXTINF:-1 ext_id="teste"tvg-logo="https://cld.pt/dl/download/09f11f8d-b9e1-4e13-b08c-ff9a6ecbc046/arena5.jpg" type="ACESTREAM",Channel 5
 acestream://7845351b0cf9e72a7f33e8161e1a6c412c18efa9
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM",Channel 6
 acestream://c31c6720db2cad5ac1c90d2d6a55d95d3aabefae
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM",Channel 7
+#EXTINF:-1 ext_id="teste"tvg-logo="https://cld.pt/dl/download/9b19d692-11ff-4935-bd3f-441138331119/arena7.jpg" type="ACESTREAM",Channel 7
 acestream://88e39a6e7206575e987cde102e2002babc661ec9
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM",Channel 8 
+#EXTINF:-1 ext_id="teste"tvg-logo="https://cld.pt/dl/download/321b84e1-02dd-4bb5-afa2-4fd96971f626/arena8.jpg" type="ACESTREAM",Channel 8 
 acestream://3c8d7271af9f75d12cd5d8224980fb12039f83cd
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM",Channel 9 
+#EXTINF:-1 ext_id="teste"tvg-logo="https://cld.pt/dl/download/e0de1375-5e9f-4d9d-94b3-b930eaab507c/arena9.jpg" type="ACESTREAM",Channel 9 
 acestream://40dc2f7d666c780bbd9d160b33a9d2bfedf9d509
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM",Channel 10
 acestream://2ce07891cf43d6fd00f97247bf79de57d67ef78e
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM",Channel 11
+#EXTINF:-1 ext_id="teste"tvg-logo="https://cld.pt/dl/download/9dfdc57b-95b7-440b-93fb-f25edc520871/arena11sx.jpg" type="ACESTREAM",Channel 11
 acestream://6ec049a407ea9272cf00e6ec92a950d88d4e8169
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM",Channel 12
