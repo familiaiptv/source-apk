@@ -332,6 +332,15 @@ http://centova.radios.pt:9520/stream/1/
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/xpsxsy1435080103.png/medium" type="RADIO",TSF
 http://tsfdirecto.tsf.pt/tsfdirecto.mp3
 
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.portugaleconomiasocial.fil.pt/wp-content/uploads/2016/02/Logo-ULTRAFM-novo1-300x133.png" type="RADIO",ULTRA FM
+http://centova.radios.pt:9506/stream/1/
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.radionovaera.pt/wp-content/uploads/2016/10/logo-transp-nova-era.png" type="RADIO",NOVA ERA
+http://centova.radios.pt:9478/stream/1/
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.radarradio.com/wp-content/uploads/2016/05/Original-Radar-Artwork-4.png" type="RADIO",NOVA ERA
+http://centova.radios.pt:8497/stream/1/
+
 #EXTINF:-1 ext_id="teste"tvg-logo="https://horrorpediadotcom.files.wordpress.com/2016/02/emelie-film-poster.png?w=343&h=467" type="MOVIE",Emelie
 https://lh3.googleusercontent.com/aCgORx1qNVCU44u8hMN4U-CPEfDJURh6odJ5O_UWqrpKKo7AQopanzGzmlwWgTPXtIhvpCnA=m22
 
