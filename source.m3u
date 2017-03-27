@@ -182,10 +182,10 @@ acestream://6ec049a407ea9272cf00e6ec92a950d88d4e8169
 #EXTINF:-1 ext_id="teste"tvg-logo="https://dl-web.meocloud.pt/dlweb/download/addon%20family/fanart%20e%20icon/icon.png?public=64e41e54-810f-49f4-9cc2-9ecacc48b15c" type="ACESTREAM",Arenavision
 Http://google.pt
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM",Channel 1 
+#EXTINF:-1 ext_id="teste"tvg-logo="https://cld.pt/dl/download/9815188b-8b36-444d-a455-6ecc9d63750b/arena1.jpg" type="ACESTREAM",Channel 1 
 acestream://73221f70964a6103f4466d6c7b22938a9262f299
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM",Channel 2 
+#EXTINF:-1 ext_id="teste"tvg-logo="https://cld.pt/dl/download/a30f260a-a358-4c52-b572-cc6ca6e4c2e6/arena2.jpg" type="ACESTREAM",Channel 2 
 acestream://6e8ded6f00e5f8c4b31fdee7bbae13e44f01eb04
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM",Channel 3
