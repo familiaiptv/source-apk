@@ -344,7 +344,10 @@ http://centova.radios.pt:9478/stream/1/
 #EXTINF:-1 ext_id="teste"tvg-logo="http://www.radarradio.com/wp-content/uploads/2016/05/Original-Radar-Artwork-4.png" type="RADIO",NOVA ERA
 http://centova.radios.pt:8497/stream/1/
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://activeclient.com.br/imagens/icon_teste.png" type="MOVIE" group_id="1",Drama teste
+#EXTINF:-1 ext_id="teste"tvg-logo="http://icon-icons.com/icons2/515/PNG/256/Action-Movies_icon-icons.com_51064.png" type="MOVIE" group_id="1",Accção
+http://google.pt
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://icon-icons.com/icons2/515/PNG/256/Action-Movies_icon-icons.com_51064.png" type="MOVIE" parent_id="1" group_id="2",Accção teste
 http://google.pt
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://horrorpediadotcom.files.wordpress.com/2016/02/emelie-film-poster.png?w=343&h=467" type="MOVIE" parent_id="1",Emelie
@@ -355,4 +358,7 @@ https://lh3.googleusercontent.com/nH4WcmwSj-Fd93N1fraUxL7hMtAeT8jq708gz9DlSO2z93
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img2.acsta.net/newsv7/16/04/26/22/24/190958.jpg" type="MOVIE" parent_id="1",Cell
 https://lh3.googleusercontent.com/qLEq2emBDUz1po7NaNCU_dm5EuPZBb2WzNIfOA9c1aaTKFFXnk8R50CayPJWKSv6qsNXUU7c=m22
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img3.acsta.net/pictures/16/03/23/16/26/007949.jpg" type="MOVIE" parent_id="2",Vizinhos 2
+https://lh3.googleusercontent.com/-VfluLbnBKhMspcThuBoSsoQDj9Ha2Vnb4uaInYeNkhKSTNLymX49wnowISh9RTXTYjMhu8n=m22
 
