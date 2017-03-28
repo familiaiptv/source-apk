@@ -162,6 +162,12 @@ http://176.25.31.103:8001/1:0:1:1581:7EA:2:11A0000:0:0:0::402
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/rppsvp1433965277.png/medium" parent_id="7",Sky Sport 3 HD
 http://176.25.31.103:8001/1:0:1:107B:7E5:2:11A0000:0:0:0::403
 
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/rsuprq1433965291.png/medium" parent_id="7",Sky Sport 4 HD
+http://176.25.31.103:8001/1:0:1:1519:7E7:2:11A0000:0:0:0::404
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/wxqusv1433965308.png/medium" parent_id="7",Sky Sport 5 HD
+http://176.25.31.103:8001/1:0:1:517:7DB:2:11A0000:0:0:0::405
+
 #EXTINF:-1 ext_id="408"tvg-logo="http://www.thelogodb.com/images/media/logo/vqrwpt1481664823.png/medium",SPORTTV + HD				 
 
 #EXTINF:-1 ext_id="151"tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium",SPORTTV 1 HD
