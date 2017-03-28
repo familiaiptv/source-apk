@@ -183,19 +183,6 @@ acestream://40dc2f7d666c780bbd9d160b33a9d2bfedf9d509
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png" type="ACESTREAM" parent_id="2",Arenavision 12
 
-
-#EXTINF:-1 ext_id="teste"tvg-logo="https://dl-web.meocloud.pt/dlweb/download/addon%20family/fanart%20e%20icon/icon.png?public=64e41e54-810f-49f4-9cc2-9ecacc48b15c" type="ACESTREAM",MOTO GP
-
-
-#EXTINF:-1 ext_id="teste"tvg-logo="http://motogp.teamtech3.fr/images/grid-sponsors-NB/Motogp.png" type="ACESTREAM",ARENA 1
-
-
-#EXTINF:-1 ext_id="teste"tvg-logo="http://motogp.teamtech3.fr/images/grid-sponsors-NB/Motogp.png" type="ACESTREAM",ARENA 2
-
-
-#EXTINF:-1 ext_id="teste"tvg-logo="https://dl-web.meocloud.pt/dlweb/download/addon%20family/fanart%20e%20icon/icon.png?public=64e41e54-810f-49f4-9cc2-9ecacc48b15c" type="ACESTREAM",Arenavision
-Http://google.pt
-
 #EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM" parent_id="1",Channel 1 
 acestream://73221f70964a6103f4466d6c7b22938a9262f299
 
