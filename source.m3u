@@ -344,7 +344,10 @@ http://centova.radios.pt:9478/stream/1/
 #EXTINF:-1 ext_id="teste"tvg-logo="http://www.radarradio.com/wp-content/uploads/2016/05/Original-Radar-Artwork-4.png" type="RADIO",NOVA ERA
 http://centova.radios.pt:8497/stream/1/
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://icon-icons.com/icons2/515/PNG/256/Action-Movies_icon-icons.com_51064.png" type="MOVIE" group_id="1",Filmes
+#EXTINF:-1 ext_id="teste"tvg-logo="http://icon-icons.com/icons2/515/PNG/256/Action-Movies_icon-icons.com_51064.png" type="MOVIE" group_id="1",FILMES
+http://google.pt
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://icon-icons.com/icons2/965/PNG/512/Animation_icon-icons.com_74659.png" type="MOVIE" group_id="2",ANIMAÇÃO
 http://google.pt
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://horrorpediadotcom.files.wordpress.com/2016/02/emelie-film-poster.png?w=343&h=467" type="MOVIE" parent_id="1",Emelie
@@ -419,16 +422,16 @@ https://cld.pt/dl/download/c9a6fe12-1d7d-460d-aef6-75a4d431312e/Collateral.Beaut
 #EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Fantastic_Beasts_and_Where_to_Find_Them_poster.png" type="MOVIE" parent_id="1",Fantastic Beast
 https://cld.pt/dl/download/bb669234-a479-4922-9a84-7781ffaf6238/Fantastic.Beasts.and.Where.to.Find.Them.2016.BDRip.x264.AC3-Manning.mkv
 
-#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Kubo_and_the_Two_Strings_poster.png" type="MOVIE" parent_id="1",Kubo And The Two Strings
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Kubo_and_the_Two_Strings_poster.png" type="MOVIE" parent_id="2",Kubo And The Two Strings
 https://cld.pt/dl/download/2753eb43-5741-4a05-8f13-37d654f23627/Kubo.And.The.Two.Strings.2016.PORTUGUESE.720p.BRRiP.x264-OWN.mkv
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Storks_(film)_poster_2.jpg" type="MOVIE" parent_id="1",Storks 
 https://cld.pt/dl/download/fa134f90-0b48-4c2c-9504-8a2dbcfe2cf4/Storks.2016.PT.720p.BRRiP.x264-iFT.mp4
 
-#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/The_Secret_Life_of_Pets_poster.jpg" type="MOVIE" parent_id="1",The Secret Life of Pets
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/The_Secret_Life_of_Pets_poster.jpg" type="MOVIE" parent_id="2",The Secret Life of Pets
 https://cld.pt/dl/download/0664bb6b-b037-4cfd-814a-4ba9d1438cf8/The.Secret.Life.of.Pets.2016.PT.720p.BRRip.x264.AC3-R23..mp4
 
-#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Trolls_(film)_logo.png" type="MOVIE" parent_id="1",Trolls
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Trolls_(film)_logo.png" type="MOVIE" parent_id="2",Trolls
 https://cld.pt/dl/download/e5e2b66b-c1d1-44d0-83df-27a15a9d886d/Trolls.2016.PT.720p.BluRay.x264-iFT.mp4
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://i.imgur.com/woVYLbNl.jpg" type="MOVIE" parent_id="1",Death Race 2050
@@ -512,34 +515,34 @@ https://cld.pt/dl/download/2afc992a-094e-4baa-a5c5-3d99b4d01852/The%20Girl%20On%
 #EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c7/Doctor_Strange_poster.jpg/200px-Doctor_Strange_poster.jpg" type="MOVIE" parent_id="1",Doctor Strange
 https://cld.pt/dl/download/07b6ff5a-f9ad-4b8b-a8ae-91fa441fbbab/Doctor.Strange.2016.IMAX.EDITION.BDRip.x264.AC3-Manning.mkv
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/15/05/14/14/20/365361.jpg" type="MOVIE" parent_id="1",Divertida-Mente
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/15/05/14/14/20/365361.jpg" type="MOVIE" parent_id="2",Divertida-Mente
 https://cld.pt/dl/download/9239e270-b6d9-443b-b74e-c20f706e5838/Divertida-Mente.2015.PT.ENG.BRRip.XviD-DarkSkY.mkv
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://www.ocamundongo.com.br/wp-content/uploads/2015/03/frozen-fever-poster-elsa-anna-camundongo.jpg" type="MOVIE" parent_id="1",Frozen Fever
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.ocamundongo.com.br/wp-content/uploads/2015/03/frozen-fever-poster-elsa-anna-camundongo.jpg" type="MOVIE" parent_id="2",Frozen Fever
 https://cld.pt/dl/download/21a64201-d422-41f1-bdf5-8c14ecaf8130/Frozen.Fever.2015.ENG.PT.720p.Bluray.X264.aac-EVO.mkv
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://cinemas.nos.pt/_layouts/15/Cinemas/Handlers/RenderImage.ashx?file=45480.png" type="MOVIE" parent_id="1",Frozen O Reino de Gelo
+#EXTINF:-1 ext_id="teste"tvg-logo="http://cinemas.nos.pt/_layouts/15/Cinemas/Handlers/RenderImage.ashx?file=45480.png" type="MOVIE" parent_id="2",Frozen O Reino de Gelo
 https://cld.pt/dl/download/8f351bf0-9f5f-4627-bbc8-9f200e7fc131/Frozen.O.Reino.de.Gelo.2013.PT.ENG.480p.BRRip.XviD.AC3-EVO.mkv
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_3c4add40.jpeg" type="MOVIE" parent_id="1",Monsters Inc
 https://cld.pt/dl/download/9611c0ff-0b0f-4bac-8f21-0e78a0a496d4/Monsters.Inc.2001.PT.ENG.DVDRip.XviD.AC3-vmf012.mkv
 
-#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Universidade_Monstros_-_p%C3%B4ster.jpg" type="MOVIE" parent_id="1",Monstros A Universidade
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Universidade_Monstros_-_p%C3%B4ster.jpg" type="MOVIE" parent_id="2",Monstros A Universidade
 https://cld.pt/dl/download/f3ed65af-06ab-4268-8df1-99b41eaab133/Monstros.A.Universidade.2013.PT.ENG.DVDRip.XviD.AC3-vmf012.mkv
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://www.cinemundo.pt/wp-content/uploads/2014/11/MUNE_web.jpg" type="MOVIE" parent_id="1",Mune, O Guardião da Lua
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.cinemundo.pt/wp-content/uploads/2014/11/MUNE_web.jpg" type="MOVIE" parent_id="2",Mune, O Guardião da Lua
 https://cld.pt/dl/download/8d243cc9-78c4-4b75-b843-1b4a8b656fc7/Mune%2C%20O%20Guardi%C3%A3o%20da%20Lua%20%282014%29.mkv
 
-#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/29/Finding_Nemo.jpg" type="MOVIE" parent_id="1",À Procura de Nemo
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/29/Finding_Nemo.jpg" type="MOVIE" parent_id="2",À Procura de Nemo
 https://cld.pt/dl/download/9a02f425-84b0-4bbd-9065-ca4f756489f2/%C3%80%20Procura%20de%20Nemo%20%282003%29.mkv
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://cdn.hoyts.co.nz/mediafiles/images/NZposters/HO00003699.jpg" type="MOVIE" parent_id="1",Angry Birds O Filme
+#EXTINF:-1 ext_id="teste"tvg-logo="http://cdn.hoyts.co.nz/mediafiles/images/NZposters/HO00003699.jpg" type="MOVIE" parent_id="2",Angry Birds O Filme
 https://cld.pt/dl/download/d3df0e83-f5d0-4cd2-876a-7968b82d8a63/Angry%20Birds%20O%20Filme%20%282016%29%20%5BBRRip%20720p%20%E2%80%93%20%C3%81udio%20PT-PT%5D-3.mp4
 
-#EXTINF:-1 ext_id="teste"tvg-logo="https://cld.pt/dl/download/f1601856-e748-4761-a4a2-d8f7fe897637/A%20Guarda%20do%20Le%C3%A3o%20-%20O%20Regresso%20do%20Rugido%20-%20Capa%2000.jpg" type="MOVIE" parent_id="1",A Guarda do Leão - O Regresso do Rugido
+#EXTINF:-1 ext_id="teste"tvg-logo="https://cld.pt/dl/download/f1601856-e748-4761-a4a2-d8f7fe897637/A%20Guarda%20do%20Le%C3%A3o%20-%20O%20Regresso%20do%20Rugido%20-%20Capa%2000.jpg" type="MOVIE" parent_id="2",A Guarda do Leão - O Regresso do Rugido
 https://cld.pt/dl/download/c68dd932-156c-4add-9537-0b46aaf7e9dd/A%20Guarda%20do%20Le%C3%A3o%20-%20O%20Regresso%20do%20Rugido.mkv
 
-#EXTINF:-1 ext_id="teste"tvg-logo="https://s20.postimg.org/oujfdos8t/capa1.png" type="MOVIE" parent_id="1",A Guarda do Leão - Liberta o Poder
+#EXTINF:-1 ext_id="teste"tvg-logo="https://s20.postimg.org/oujfdos8t/capa1.png" type="MOVIE" parent_id="2",A Guarda do Leão - Liberta o Poder
 https://cld.pt/dl/download/665d55ec-1169-432a-b323-b549834653ea/A%20Guarda%20do%20Le%C3%A3o%20-%20Liberta%20o%20Poder%20-%202016.avi
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/e6/0e/e4/e60ee4a20fa96533af0705cf26f5be60.jpg" type="MOVIE" parent_id="1",Bastille Day
@@ -599,31 +602,31 @@ https://cld.pt/dl/download/9819c5ff-4bd6-4b40-bc0f-954cd97630a7/X-Men%20Apocalyp
 #EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/Dirty_Grandpa_teaser_poster.jpg" type="MOVIE" parent_id="1",Dirty Grandpa
 https://cld.pt/dl/download/34a5424f-096c-4685-9493-01aa14d9db75/Dirty.Grandpa.2016.720p.BluRay.H264.AAC-RARBG.mkv
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/06/30/20/49/544752.jpg" type="MOVIE" parent_id="1",Finding Dory 2016
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/06/30/20/49/544752.jpg" type="MOVIE" parent_id="2",Finding Dory 2016
 https://cld.pt/dl/download/e59b087f-fb37-4a67-b3a3-bf32e676608a/Finding.Dory.2016.PT.ENG.720p.BDRip.AC3-iFT.mkv
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://www.filmesonlinehd11.cc/wp-content/uploads/2015/12/Hotel-Transilvania-2.jpg" type="MOVIE" parent_id="1",Hotel Transylvania 2
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.filmesonlinehd11.cc/wp-content/uploads/2015/12/Hotel-Transilvania-2.jpg" type="MOVIE" parent_id="2",Hotel Transylvania 2
 https://cld.pt/dl/download/0d06f6f0-c0b0-4cff-b0a3-ba5bb6d9b9d2/Hotel.Transylvania.2.2015.PORTUGUESE.720p.BRRiP.x264-OWN.mkv
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/01/24/21/36/094174.jpg" type="MOVIE" parent_id="1",Rio 2
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/01/24/21/36/094174.jpg" type="MOVIE" parent_id="2",Rio 2
 https://cld.pt/dl/download/427cfd0c-838b-44d9-b732-c4f7f7fca6fa/Rio.2.2014.PT.ENG.480p.BRRip.XviD.AC3-iNFiNiTy.mkv
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/32/32/19874310.jpg" type="MOVIE" parent_id="1",Rio 2011
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/32/32/19874310.jpg" type="MOVIE" parent_id="2",Rio 2011
 https://cld.pt/dl/download/4062f06d-16e3-4ddd-ae83-c5af20620914/Rio.2011.DVDRip.PT-PT.onofrinho.mkv
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ae/Starwars_06.jpg/250px-Starwars_06.jpg" type="MOVIE" parent_id="1",Star Wars Episode VII The Force Awakens
 https://cld.pt/dl/download/2a1cab36-da7a-4e59-a233-f429f6a9c9eb/Star.Wars.Episode.VII.The%20Force%20Awakens.2015.720p.BRRip.X264.AC3-EVO.mkv
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://2.bp.blogspot.com/_5EE1wK9F0qs/THjHpT6S99I/AAAAAAAAClI/BmuahiJIuwI/s1600/Carros.DVDRIP.Xvid.Dublado.JPG" type="MOVIE" parent_id="1",Cars
+#EXTINF:-1 ext_id="teste"tvg-logo="http://2.bp.blogspot.com/_5EE1wK9F0qs/THjHpT6S99I/AAAAAAAAClI/BmuahiJIuwI/s1600/Carros.DVDRIP.Xvid.Dublado.JPG" type="MOVIE" parent_id="2",Cars
 https://cld.pt/dl/download/8458bf64-7b51-4de6-bb56-fc02e1acb6b6/Cars.2006.DVD9..mkv
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/91/50/20028729.jpg" type="MOVIE" parent_id="1",CARS 2
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/91/50/20028729.jpg" type="MOVIE" parent_id="2",CARS 2
 https://cld.pt/dl/download/b7eab7e3-673c-426e-8b7f-e7e2893fe06e/CARS_2_2011_PT_PAL_DVD9.mkv
 
-#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/Despicable_Me_2_poster.jpg" type="MOVIE" parent_id="1",Despicable Me 2
+#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/Despicable_Me_2_poster.jpg" type="MOVIE" parent_id="2",Despicable Me 2
 https://cld.pt/dl/download/a5c8bde4-85f7-42eb-bf6c-e6ffbed56d49/Despicable.Me.2.2013.PORTUGUESE.BRRiP.x264-OWN.mkv
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://fotosimagens.com.br/wp-content/uploads/2016/12/meninas-minios.jpg" type="MOVIE" parent_id="1",Despicable  Me
+#EXTINF:-1 ext_id="teste"tvg-logo="http://fotosimagens.com.br/wp-content/uploads/2016/12/meninas-minios.jpg" type="MOVIE" parent_id="2",Despicable  Me
 https://cld.pt/dl/download/574930db-1892-426c-9f4b-938c109f7d65/Despicable.Me.2010.PORTUGUESE.720p.BRRiP.x264-HDTeam.mkv
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781476760087/mike-and-dave-need-wedding-dates-9781476760087_hr.jpg" type="MOVIE" parent_id="1",Mike and Dave Need Wedding Dates
