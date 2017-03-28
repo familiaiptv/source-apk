@@ -3,16 +3,14 @@
 #EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/9396c1d1-b913-419f-89d5-73fadeb0109e/genericos.png" group_id="1",GENÉRICOS
 Http://google.pt
 
-#EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/9396c1d1-b913-419f-89d5-73fadeb0109e/genericos.png" group_id="2",FILMES
+#EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/9e9b0e63-7750-40b5-82e8-8d0e2a3d508c/FILMES.png" group_id="2",FILMES
 Http://google.pt
 
 #EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/325d305a-4749-4efb-bdfb-be4558f9d498/ANIMA%C3%87AO.png" group_id="3",ANIMAÇÃO
 Http://google.pt
 
-#EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/9396c1d1-b913-419f-89d5-73fadeb0109e/genericos.png" group_id="4",FILMES
-Http://google.pt
-
 #EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/461f5676-f539-4b15-8214-2c7d2946fc93/DESPORTO.png" group_id="5",DESPORTO
+Http://google.pt
 
 #EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/9396c1d1-b913-419f-89d5-73fadeb0109e/genericos.png" group_id="7",DESPORTO INTERNACIONAL
 Http://google.pt
@@ -137,7 +135,7 @@ http://ip.cs4ip.com:8000/live/zero99/zero99/4509.m3u8
 #EXTINF:-1 ext_id="teste"tvg-logo="http://www.shoppingconquistasul.com.br/wp-content/uploads/2014/10/zigzagplay-nova-250x180.png" parent_id="3",ZIG ZAG
 https://streaming-live.rtp.pt/liverepeater/smil:zigzag.smil/familiaiptv.m3u8
 
-#EXTINF:-1 ext_id="151"tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium" parent_id="6",SPORT TV 1 HD (temp)
+#EXTINF:-1 ext_id="151"tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium" parent_id="6" parent_id="5",SPORT TV 1 HD (temp)
 http://ip.cs4ip.com:8000/live/zero99/zero99/4490.m3u8
 
 #EXTINF:-1 ext_id="151"tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium" parent_id="6",SPORT TV 1 HD (temp2)
