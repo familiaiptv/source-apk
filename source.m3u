@@ -344,28 +344,28 @@ http://centova.radios.pt:9478/stream/1/
 #EXTINF:-1 ext_id="teste"tvg-logo="http://www.radarradio.com/wp-content/uploads/2016/05/Original-Radar-Artwork-4.png" type="RADIO",NOVA ERA
 http://centova.radios.pt:8497/stream/1/
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://icon-icons.com/icons2/965/PNG/512/Thriller_icon-icons.com_74679.png" type="MOVIE" group_id="1",TRILLER
-http://google.pt
-
 #EXTINF:-1 ext_id="teste"tvg-logo="http://icon-icons.com/icons2/965/PNG/512/Animation_icon-icons.com_74659.png" type="MOVIE" group_id="2",ANIMAÇÃO
 http://google.pt
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://icon-icons.com/icons2/515/PNG/256/Action-Movies_icon-icons.com_51064.png" type="MOVIE" group_id="3",ACÇÃO
 http://google.pt
 
+#EXTINF:-1 ext_id="teste"tvg-logo="http://icon-icons.com/icons2/515/PNG/256/Adventure-Movies_icon-icons.com_51063.png" type="MOVIE" group_id="7",AVENTURA
+http://google.pt
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://icon-icons.com/icons2/965/PNG/512/Comedy_icon-icons.com_74661.png" type="MOVIE" group_id="6",COMEDIA
+http://google.pt
+
 #EXTINF:-1 ext_id="teste"tvg-logo="http://icon-icons.com/icons2/965/PNG/512/Drama_icon-icons.com_74664.png" type="MOVIE" group_id="4",DRAMA
+http://google.pt
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://icon-icons.com/icons2/702/PNG/512/Musical_icon-icons.com_61695.png" type="MOVIE" group_id="8",MUSICAL
 http://google.pt
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://icon-icons.com/icons2/515/PNG/256/Horror-Movies_icon-icons.com_51050.png" type="MOVIE" group_id="5",TERROR
 http://google.pt
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://icon-icons.com/icons2/515/PNG/256/Horror-Movies_icon-icons.com_51050.png" type="MOVIE" group_id="6",COMEDIA
-http://google.pt
-
-#EXTINF:-1 ext_id="teste"tvg-logo="http://icon-icons.com/icons2/515/PNG/256/Adventure-Movies_icon-icons.com_51063.png" type="MOVIE" group_id="7",AVENTURA
-http://google.pt
-
-#EXTINF:-1 ext_id="teste"tvg-logo="http://icon-icons.com/icons2/702/PNG/512/Musical_icon-icons.com_61695.png" type="MOVIE" group_id="8",MUSICAL
+#EXTINF:-1 ext_id="teste"tvg-logo="http://icon-icons.com/icons2/965/PNG/512/Thriller_icon-icons.com_74679.png" type="MOVIE" group_id="1",TRILLER
 http://google.pt
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://horrorpediadotcom.files.wordpress.com/2016/02/emelie-film-poster.png?w=343&h=467" type="MOVIE" parent_id="1",Emelie
