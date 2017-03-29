@@ -10,13 +10,13 @@ Http://google.pt
 Http://google.pt
 
 #EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/16d6dc96-59fb-4c76-9649-6e3193a85b0c/DESPORTO.png" group_id="5",DESPORTO
-
+Http://google.pt
 
 #EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/0edc9579-2e66-4c73-8d5e-cef876e18155/DESP%20INTERNACIONAL.png" group_id="7",DESPORTO INTERNACIONAL
 Http://google.pt
 
 #EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/59274597-ef12-4410-b27a-fe76b7d056ae/TEMP.png" group_id="6",CANAIS TEMPORÁRIOS
-Http://google.pt
+
 
 #EXTINF:-1 ext_id="171"rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rtysxv1466191624.png/small" parent_id="1",RTP 1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist_b640000_slpt.m3u8
@@ -123,37 +123,37 @@ http://ip.cs4ip.com:8000/live/zero99/zero99/4475.m3u8
 #EXTINF:-1 ext_id="27"tvg-logo="https://www.thelogodb.com/images/media/logo/qxqrts1466447152.png/medium" parent_id="3",PANDA
 http://213.228.128.27/hlsl/1/Panda/04.m3u8
 
-#EXTINF:-1 ext_id="146"tvg-logo="https://www.thelogodb.com/images/media/logo/sqttxp1433353102.png/medium" parent_id="6",PANDA BIGS(Temp)
+#EXTINF:-1 ext_id="146"tvg-logo="https://www.thelogodb.com/images/media/logo/sqttxp1433353102.png/medium" parent_id="3",PANDA BIGS(Temp)
 http://iptv.iptvthebest.net:15000/live/kjfshd78343/112w92yzx1/14717.m3u8
 
-#EXTINF:-1 ext_id="193"tvg-logo="https://www.thelogodb.com/images/media/logo/qrqxyp1433430351.png/medium" parent_id="6",DISNEY JR(Temp)
+#EXTINF:-1 ext_id="193"tvg-logo="https://www.thelogodb.com/images/media/logo/qrqxyp1433430351.png/medium" parent_id="3",DISNEY JR(Temp)
+http://localhd.tv:8081/live/pedro/skype/1696.m3u8
+
+#EXTINF:-1 ext_id="193"tvg-logo="https://www.thelogodb.com/images/media/logo/qrqxyp1433430351.png/medium" parent_id="3",DISNEY JR(Temp)
 
 
-#EXTINF:-1 ext_id="193"tvg-logo="https://www.thelogodb.com/images/media/logo/qrqxyp1433430351.png/medium" parent_id="6",DISNEY JR(Temp)
+#EXTINF:-1 ext_id="126"tvg-logo="https://www.thelogodb.com/images/media/logo/yupwrv1435102443.png/medium" parent_id="3",JIM JAM(Temp)
+http://localhd.tv:8081/live/pedro/skype/1661.m3u8
 
-
-#EXTINF:-1 ext_id="126"tvg-logo="https://www.thelogodb.com/images/media/logo/yupwrv1435102443.png/medium" parent_id="6",JIM JAM(Temp)
-
-
-#EXTINF:-1 ext_id="35"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" parent_id="6",BABY TV(Temp)
+#EXTINF:-1 ext_id="35"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" parent_id="3",BABY TV(Temp)
 http://ip.cs4ip.com:8000/live/zero99/zero99/4509.m3u8
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://www.shoppingconquistasul.com.br/wp-content/uploads/2014/10/zigzagplay-nova-250x180.png" parent_id="3",ZIG ZAG
 https://streaming-live.rtp.pt/liverepeater/smil:zigzag.smil/familiaiptv.m3u8
 
-#EXTINF:-1 ext_id="151"tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium" parent_id="6" ,SPORT TV 1 HD (temp)
+#EXTINF:-1 ext_id="151"tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium" parent_id="5" ,SPORT TV 1 HD (temp)
 http://ip.cs4ip.com:8000/live/zero99/zero99/4490.m3u8
 
-#EXTINF:-1 ext_id="151"tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium" parent_id="6",SPORT TV 1 HD (temp2)
+#EXTINF:-1 ext_id="151"tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium" parent_id="5",SPORT TV 1 HD (temp2)
 http://iptv.iptvthebest.net:15000/live/kjfshd78343/112w92yzx1/14732.ts
 
-#EXTINF:-1 ext_id="231"tvg-logo="https://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium" parent_id="6",Benfica Tv (temp)
+#EXTINF:-1 ext_id="231"tvg-logo="https://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium" parent_id="5",Benfica Tv (temp)
 http://ip.cs4ip.com:8000/live/zero99/zero99/4474.m3u8
 
-#EXTINF:-1 ext_id="231"tvg-logo="https://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium" parent_id="6",Benfica Tv (temp2)
+#EXTINF:-1 ext_id="231"tvg-logo="https://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium" parent_id="5",Benfica Tv (temp2)
 http://iptv.iptvthebest.net:15000/live/kjfshd78343/112w92yzx1/14691.m3u8
 
-#EXTINF:-1 ext_id="231"tvg-logo="https://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium" parent_id="6", Benfica Tv (temp3)
+#EXTINF:-1 ext_id="231"tvg-logo="https://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium" parent_id="5", Benfica Tv (temp3)
 
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/wuyqur1434267176.png/medium" parent_id="7",EUROSPORT UK
