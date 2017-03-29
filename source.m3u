@@ -1,21 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/9396c1d1-b913-419f-89d5-73fadeb0109e/genericos.png" group_id="1",GENÉRICOS
+#EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/31d5c76b-55b4-455d-88fb-0bf13299857d/genericos.png" group_id="1",GENÉRICOS
 Http://google.pt
 
-#EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/9e9b0e63-7750-40b5-82e8-8d0e2a3d508c/FILMES.png" group_id="2",FILMES
+#EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/51346dff-f8c9-47c4-9793-a12f95c3fb3d/FILMES.png" group_id="2",FILMES
 Http://google.pt
 
-#EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/325d305a-4749-4efb-bdfb-be4558f9d498/ANIMA%C3%87AO.png" group_id="3",ANIMAÇÃO
+#EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/6229ac75-23b4-40b8-b663-471be537a197/Animation_icon-icons.com_61707.png" group_id="3",ANIMAÇÃO
 Http://google.pt
 
-#EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/461f5676-f539-4b15-8214-2c7d2946fc93/DESPORTO.png" group_id="5",DESPORTO
+#EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/16d6dc96-59fb-4c76-9649-6e3193a85b0c/DESPORTO.png" group_id="5",DESPORTO
 
 
-#EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/9396c1d1-b913-419f-89d5-73fadeb0109e/genericos.png" group_id="7",DESPORTO INTERNACIONAL
+#EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/0edc9579-2e66-4c73-8d5e-cef876e18155/DESP%20INTERNACIONAL.png" group_id="7",DESPORTO INTERNACIONAL
 Http://google.pt
 
-#EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/9396c1d1-b913-419f-89d5-73fadeb0109e/genericos.png" group_id="6",CANAIS TEMPORÁRIOS
+#EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/59274597-ef12-4410-b27a-fe76b7d056ae/TEMP.png" group_id="6",CANAIS TEMPORÁRIOS
 Http://google.pt
 
 #EXTINF:-1 ext_id="171"rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rtysxv1466191624.png/small" parent_id="1",RTP 1
