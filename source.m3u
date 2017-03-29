@@ -21,8 +21,14 @@ Http://google.pt
 #EXTINF:-1 ext_id="171"rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rtysxv1466191624.png/small" parent_id="1",RTP 1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist_b640000_slpt.m3u8
 
+#EXTINF:-1 ext_id="171"rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rtysxv1466191624.png/small" parent_id="1",RTP 1
+http://213.228.128.27/hlsl/1/RTP1/04.m3u8
+
 #EXTINF:-1 ext_id="172" tvg-logo="http://www.thelogodb.com/images/media/logo/yvttxv1466191438.png/small" parent_id="1",RTP 2
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b640000_slpt.m3u8
+
+#EXTINF:-1 ext_id="172" tvg-logo="http://www.thelogodb.com/images/media/logo/yvttxv1466191438.png/small" parent_id="1",RTP 2
+http://213.228.128.27/hlsl/1/RTP2/04.m3u8
 
 #EXTINF:-1 ext_id="173" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/small" parent_id="1",SIC (geobloqueado)
 http://live.impresa.pt/live/sic/sic540p.m3u8
