@@ -180,6 +180,10 @@ http://78.129.239.105:8080/je3nNaM00tAaAier33Naa-4/Strm/index.m3u8
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/upxppt1433783076.png/medium" parent_id="7",Arena Sport 5
 http://78.129.239.105:8080/je3nNaM00tAaAier33Naa-5/Strm/index.m3u8
 
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/rpxxqy1433779967.png/medium" parent_id="7",Manchester United
+http://78.129.239.105:8080/je3nNaM00tAaemyou0T/Strm/tracks-v1a1/index.m3u8
+
+
 #EXTINF:-1 ext_id="408"tvg-logo="http://www.thelogodb.com/images/media/logo/vqrwpt1481664823.png/medium",SPORTTV + HD				 
 
 #EXTINF:-1 ext_id="151"tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium",SPORTTV 1 HD
