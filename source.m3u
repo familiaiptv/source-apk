@@ -171,8 +171,14 @@ http://78.129.239.105:8080/je3nNaM00tAaAier33Naa-1/Strm/index.m3u8
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/vrqsrx1433781528.png/medium" parent_id="7",Arena Sport 2
 http://78.129.239.105:8080/je3nNaM00tAaAier33Naa-2/Strm/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/wxqusv1433965308.png/medium" parent_id="7",Sky Sport 5 HD
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/uuqqxq1433781899.png/medium" parent_id="7",Arena Sport 3
+http://78.129.239.105:8080/je3nNaM00tAaAier33Naa-3/Strm/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/ruprvu1433782524.png/medium" parent_id="7",Arena Sport 4
+http://78.129.239.105:8080/je3nNaM00tAaAier33Naa-4/Strm/index.m3u8
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/upxppt1433783076.png/medium" parent_id="7",Arena Sport 5
+http://78.129.239.105:8080/je3nNaM00tAaAier33Naa-5/Strm/index.m3u8
 
 #EXTINF:-1 ext_id="408"tvg-logo="http://www.thelogodb.com/images/media/logo/vqrwpt1481664823.png/medium",SPORTTV + HD				 
 
