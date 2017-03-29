@@ -165,11 +165,11 @@ http://78.129.239.105:8080/je3nNaM00tAaSekiyyef00ne/Strm/index.m3u8
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/vwxvty1433360911.png/medium" parent_id="7",Bt Sport 2
 http://78.129.239.105:8080/je3nNaM00tAabB3eETtiyiy-2/Strm/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/rppsvp1433965277.png/medium" parent_id="7",Sky Sport 3 HD
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/vsurrv1433781133.png/medium" parent_id="7",Arena Sport 1
+http://78.129.239.105:8080/je3nNaM00tAaAier33Naa-1/Strm/index.m3u8
 
-
-#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/rsuprq1433965291.png/medium" parent_id="7",Sky Sport 4 HD
-
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/vrqsrx1433781528.png/medium" parent_id="7",Arena Sport 2
+http://78.129.239.105:8080/je3nNaM00tAaAier33Naa-2/Strm/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/wxqusv1433965308.png/medium" parent_id="7",Sky Sport 5 HD
 
