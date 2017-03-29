@@ -162,8 +162,8 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_18
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/tyqypy1433965234.png/medium" parent_id="7",Sky Sport F1 HD
 http://78.129.239.105:8080/je3nNaM00tAaSekiyyef00ne/Strm/index.m3u8
 
-#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/qwsppt1433965260.png/medium" parent_id="7",Sky Sport 2 HD
-
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/vwxvty1433360911.png/medium" parent_id="7",Bt Sport 2
+http://78.129.239.105:8080/je3nNaM00tAabB3eETtiyiy-2/Strm/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/rppsvp1433965277.png/medium" parent_id="7",Sky Sport 3 HD
 
