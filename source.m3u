@@ -49,7 +49,7 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/FamiliaIPTV.m3u8
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 
 #EXTINF:-1 ext_id="413" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/small" parent_id="1",SIC NOTÍCIAS
-http://familiaiptv://213.228.128.27/hlsl/1/SICN/04.m3u8
+http://213.228.128.27/hlsl/1/SICN/04.m3u8
 
 #EXTINF:-1 ext_id="3" tvg-logo="http://www.thelogodb.com/images/media/logo/uvtqyy1461670745.png/small" parent_id="1",RTP3
 https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/chunklist_b640000_slpt.m3u8
