@@ -749,7 +749,7 @@ https://cld.pt/dl/download/e070379c-a002-4f38-a232-83551b687b21/Meet.The.Robinso
 #EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/33/68/19874449.jpg" type="MOVIE" parent_id="7",Season of the Witch
 https://cld.pt/dl/download/8d788059-9081-4ae9-be55-5133c9fb53e6/Season.of.the.Witch.BrRip.720p.500MB.YIFY.mkv
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/15/12/10/21/01/335612.jpg" type="MOVIE", parent_id="2"Zootopia
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/15/12/10/21/01/335612.jpg" type="MOVIE" parent_id="2", Zootopia
 https://cld.pt/dl/download/ce81562e-440a-482c-b8da-19cc1a440b91/Zootopia.2016.PORTUGUESE.720p.BRRiP.x264-OWN.mkv
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Batman_v_Superman_poster.jpg" type="MOVIE" parent_id="3", Batman Vs Superman Dawn Of Justice
