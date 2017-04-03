@@ -205,7 +205,13 @@ http://78.129.239.105:8080/je3nNaM00tAaemyou0T/Strm/tracks-v1a1/index.m3u8
 #EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM" group_id="1",ARENAVISION
 http://google.pt
 
-#EXTINF:-1 ext_id="rtp1.pt" tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png" type="ACESTREAM" group_id="2",Liga Nos jornada 27
+#EXTINF:-1 ext_id="rtp1.pt" tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png" type="ACESTREAM" group_id="2",Liga Nos jornada 28
+http://google.pt
+
+#EXTINF:-1 ext_id="rtp1.pt" tvg-logo="http://www.zerozero.pt/img/logos/competicoes/9_imgbank_tp.png" type="ACESTREAM" group_id="3",Taça de Portugal
+http://google.pt
+
+#EXTINF:-1 ext_id="rtp1.pt" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/1/1a/Motogp-old-logo.png" type="ACESTREAM" group_id="4",MOTOGP
 http://google.pt
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/TV_Guide_Logo.png" type="ACESTREAM" parent_id="1",ARENAVISION GUIA DE TV
@@ -217,15 +223,41 @@ acestream://3c8d7271af9f75d12cd5d8224980fb12039f83cd
 #EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png" type="ACESTREAM" parent_id="2",Arenavision 9 
 acestream://40dc2f7d666c780bbd9d160b33a9d2bfedf9d509
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png" type="ACESTREAM" parent_id="2",Arenavision 11
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png" type="ACESTREAM" parent_id="2",Arenavision 13
+acestream://adc607fbdee2e928193b16483893bfeacaa794ed
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png" type="ACESTREAM" parent_id="2",Arenavision 12
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png" type="ACESTREAM" parent_id="2",Arenavision 14
+acestream://4b16e465a2ec93a7a6b8afbeed0632a6c73d25b0
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png" type="ACESTREAM" parent_id="3",CHAVES-VITORIA GUIMARAES
+acestream://adc607fbdee2e928193b16483893bfeacaa794ed
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png" type="ACESTREAM" parent_id="3",CHAVES-VITORIA GUIMARAES
+acestream://4b16e465a2ec93a7a6b8afbeed0632a6c73d25b0
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png" type="ACESTREAM" parent_id="3",BENFICA-ESTORIL
+acestream://3c8d7271af9f75d12cd5d8224980fb12039f83cd
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png" type="ACESTREAM" parent_id="3",BENFICA-ESTORIL
+acestream://40dc2f7d666c780bbd9d160b33a9d2bfedf9d509
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/1/1a/Motogp-old-logo.png" type="ACESTREAM" parent_id="4",Arenavision 5
+acestream://7845351b0cf9e72a7f33e8161e1a6c412c18efa9
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/1/1a/Motogp-old-logo.png" type="ACESTREAM" parent_id="4",Arenavision 6
+acestream://c31c6720db2cad5ac1c90d2d6a55d95d3aabefae
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/1/1a/Motogp-old-logo.png" type="ACESTREAM" parent_id="4",Arenavision 8 
+acestream://3c8d7271af9f75d12cd5d8224980fb12039f83cd
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/1/1a/Motogp-old-logo.png" type="ACESTREAM" parent_id="4",Arenavision 9 
+acestream://40dc2f7d666c780bbd9d160b33a9d2bfedf9d509
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM" parent_id="1",Channel 1 
-acestream://73221f70964a6103f4466d6c7b22938a9262f299
+acestream://29571d667f2f03c468e803839021b1d0cf100a1a
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM" parent_id="1",Channel 2 
-acestream://6e8ded6f00e5f8c4b31fdee7bbae13e44f01eb04
+acestream://d64ceed521b96c40fcf2037fc6d78fc12aa51dfb
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM" parent_id="1",Channel 3
 acestream://6ea486ae42aac5ec6a2d2ba14b01540a728805c0
@@ -264,7 +296,7 @@ acestream://adc607fbdee2e928193b16483893bfeacaa794ed
 acestream://4b16e465a2ec93a7a6b8afbeed0632a6c73d25b0
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM" parent_id="1",Channel 15
-acestream://7a899ef4ac54b526806b751e9804162e406bb826
+acestream://1e82e2f1744341f872df564b6671fe0b00f6434f
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM" parent_id="1",Channel 16
 acestream://3862cce39b5d1af2961cbaf60945c513745712f4
@@ -288,10 +320,10 @@ acestream://9e7197ce4146384120b6001b65cb21c8184a93ec
 acestream://45ca60761c6d87739833879133bbf91c8dbd86b1
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM" parent_id="1",Channel 23
-acestream://5cb556cd5ac1e46fd5c97d37d70d741a532d43e7
+acestream://050b5359b1f18226de89d90f057187af2c29b0be
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM" parent_id="1",Channel 24
-acestream://0df0da6bd5d30854fb1c8048fab20a6b9c2bd196
+acestream://0671790224cb7bbf7e661060b1d51aae0761587f
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM" parent_id="1",Channel 25
 acestream://3e621929f207afb06e5eb188e77b99a5b9408b6c
