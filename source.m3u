@@ -150,7 +150,7 @@ http://ip.cs4ip.com:8000/live/zero99/zero99/4490.m3u8
 #EXTINF:-1 ext_id="151"tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium" parent_id="5",SPORT TV 1 HD (temp2)
 http://iptv.iptvthebest.net:15000/live/kjfshd78343/112w92yzx1/14732.ts
 
-#EXTINF:-1 ext_id="151"tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium" parent_id="5",SPORT TV 1
+#EXTINF:-1 ext_id="151"tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium" parent_id="5",SPORT TV 1 Low SD
 http://hls.megadash.xyz/s/fod1449/oe69e.m3u8?h=L6TgkVW889GS2pZgGNTGOg
 
 #EXTINF:-1 ext_id="231"tvg-logo="https://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium" parent_id="5",Benfica Tv (temp)
@@ -766,6 +766,160 @@ https://cld.pt/dl/download/d8ef3764-0b76-47ba-84f3-4f0ca2fb0592/Blair.Witch.2016
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/16/06/28/17/51/061145.jpg" type="MOVIE" parent_id="6",Bridget Jones's Baby
 https://cld.pt/dl/download/81c5631c-d4a2-473b-a1fc-6691effcce82/Bridget.Jones%27s.Baby.2016.720p.BluRay.x264-%5BYTS.AG%5D.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://i.jeded.com/i/edge-of-tomorrow.26978.jpg" type="MOVIE" parent_id="3", Edge of Tomorrow
+https://cld.pt/dl/download/0f1dfd18-2b0a-4fdb-b638-aff327f2bcf3/Edge.of.Tomorrow.2014.720p.BluRay.x264.YIFY.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/90/84/14/20115747.jpg" type="MOVIE" parent_id="3",Ghost Rider 2007
+https://cld.pt/dl/download/706485df-fa11-4104-a0cb-d21212a51c7c/Ghost%20Rider%202007.720p.BrRip.x264.YIFY.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTkwNDM5MDEzOF5BMl5BanBnXkFtZTcwNDEyNTUxNw@@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="3",Ghost Rider Spirit Of Vengeance
+https://cld.pt/dl/download/0e6a2b4c-0b75-4508-8f06-4260fbd0a392/Ghost.Rider.Spirit.Of.Vengeance.2011.720p.BluRay.x264.YIFY.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4MjA2OTQxMF5BMl5BanBnXkFtZTgwMjcyMTI2MjE@._V1_UY268_CR3,0,182,268_AL_.jpg" type="MOVIE" parent_id="3",Left Behind
+https://cld.pt/dl/download/7304f248-5458-470d-867e-509fdec53cce/Left.Behind.2014.720p.BluRay.x264.YIFY.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzMTY5Mzg1Ml5BMl5BanBnXkFtZTgwNTUzODUwNjE@._V1_UY268_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="6",Masterminds
+https://cld.pt/dl/download/8a4e84f0-ffd1-4f49-afef-8cde65adc2ad/Masterminds.2016.BRRip.x264.AC3-R23.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTc3NjI2MjU0Nl5BMl5BanBnXkFtZTgwNDk3ODYxMTE@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="3",Mission Impossible 1996
+https://cld.pt/dl/download/485015e9-a4cb-4be5-8449-ae647f7ebdbd/Mission.Impossible.1996.720p.BluRay.x264.YIFY.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4MTUxMjQ5OV5BMl5BanBnXkFtZTcwNTUyMzg5Ng@@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="3",Mission Impossible Ghost Protocol
+https://cld.pt/dl/download/b7213edf-8ee6-4695-a379-adfc961c6ea3/Mission.Impossible.Ghost.Protocol.2011.720p.BrRip.x264.YIFY.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BN2RkYWVkZDQtNTMxMi00NWQ4LWE2ODctNmQzOWM2NjQzYzdlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="3",Missão Impossível II
+https://cld.pt/dl/download/51a0cf9a-f40a-4608-952a-c03c83dbd34d/Mission.Impossible.II.2000.720p.BrRip.x264-YIFY.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjExMDY1MTI5MF5BMl5BanBnXkFtZTcwNDE2NTQzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="3",Mission Impossible III
+https://cld.pt/dl/download/2720da2e-4f91-43e3-9098-7933eeeaff2d/Mission.Impossible.III.2006.720p.BrRip.x264-YIFY.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BOTFmNDA3ZjMtN2Y0MC00NDYyLWFlY2UtNTQ4OTQxMmY1NmVjXkEyXkFqcGdeQXVyNTg4NDQ4NDY@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="3",Mission Impossible Rogue Nation
+https://cld.pt/dl/download/f012c07d-c755-48f2-aa27-cf8563a33686/Mission.Impossible.Rogue.Nation.2015.720p.BluRay.x264.YIFY.%5BYTS.AG%5D.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwMDY0MTA4MF5BMl5BanBnXkFtZTcwNzI3MDgxOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="3",Oblivion
+https://cld.pt/dl/download/783948f1-6955-4465-9746-9911395a43f8/Oblivion.2013.720p.BluRay.x264.YIFY.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTM4NzQ0OTYyOF5BMl5BanBnXkFtZTcwMDkyNjQyMg@@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="3",Taken
+https://cld.pt/dl/download/5253056d-2879-43e5-a5dc-b43b4fef9254/Taken%202008%20Extended%20Cut%20720p.BrRip.x264.YIFY.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTkwNTQ0ODExOV5BMl5BanBnXkFtZTcwNjU3NDQwOA@@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="3",Taken 2
+https://cld.pt/dl/download/51cf6bcc-dda1-40ae-a9c1-9f7489c7f2a9/Taken.2.2012.UNRATED.EXTENDED.720p.BluRay.x264.YIFY.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNjM5MDU3NTY0M15BMl5BanBnXkFtZTgwOTk2ODU2MzE@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="3",Taken 3
+https://cld.pt/dl/download/1afaa0aa-bea4-4fd8-99fb-fa031769295b/Taken.3.2014.720p.BluRay.x264.YIFY-por.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1OTU0ODcxMV5BMl5BanBnXkFtZTcwOTMxNTUwOA@@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="6",Ted
+https://cld.pt/dl/download/40d38abd-bd52-43cb-9cc1-95c24db7c6bf/Ted.2012.BluRay.720p.x264.YIFY.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwMDg3MDk1NF5BMl5BanBnXkFtZTgwNjYyODA1NTE@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="6",Ted 2
+https://cld.pt/dl/download/aa46b4fa-242b-4207-9116-a5f997100993/Ted.2.2015.720p.BluRay.x264.YIFY.%5BYTS.AG%5D.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTY0OTQ3MzE3MV5BMl5BanBnXkFtZTcwMDQyMzMzMg@@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="2",Monsters Vs Aliens
+https://cld.pt/dl/download/f430b228-a252-4fcc-8ed6-fd1797c7394b/Monsters.Vs.Aliens.2009.PT.ENG.DVDRip.XviD.AC3-vmf012.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTc5MTg2NjQ4MV5BMl5BanBnXkFtZTgwNzcxOTY5NjE@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="2",The Good Dinosaur
+https://cld.pt/dl/download/e0fdacf2-9e8d-4bd8-9d17-7d92107d8f0f/The.Good.Dinosaur.2015.PT.ENG.BDRip.x264-R23.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="2",O Rei Leão (1994)
+https://cld.pt/dl/download/7b86f6a7-d33d-48ab-8c33-2b1edb60a7d9/The.Lion.King.SE.1994.PROPER.PORTUGUESE.DVDRip.XviD-NANT.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNTE5NzMxNzkwNl5BMl5BanBnXkFtZTgwOTQ0Nzk5NzE@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="2",Snoopy e Charlie Brown: Peanuts
+https://cld.pt/dl/download/bd1453cd-23fa-470b-9084-6e76b00184d9/The.Peanuts.Movie.2015.PORTUGUESE.720.BRRiP.x264-OWN.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="2",Toy Story
+https://cld.pt/dl/download/6adb5d4d-e638-4eb8-9374-d07aff180589/Toy.Story.1995.PORTUGUESE.DVDRip.XviD-GiQ.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMWM5ZDcxMTYtNTEyNS00MDRkLWI3YTItNThmMGExMWY4NDIwXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="2",Toy Story 2
+https://cld.pt/dl/download/cb4b6aad-e620-4ee8-9742-13d09445770d/Toy.Story.2.1999.PORTUGUESE.720p.BRRip.x264.AAC-nTHD.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_UY268_CR3,0,182,268_AL_.jpg" type="MOVIE" parent_id="2",Toy Story 3
+https://cld.pt/dl/download/04e614c2-a7c3-4d7f-8b94-da601888f91d/Toy.Story.3.PORTUGUESE.DVDRip.XviD-SR.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5NTA4NDAxNV5BMl5BanBnXkFtZTgwMzk1MTA1MjE@._V1_UY268_CR4,0,182,268_AL_.jpg" type="MOVIE" parent_id="2",Toy Story Of Terror
+https://cld.pt/dl/download/c2577977-5317-4d60-b745-1c4a251b0465/Toy.Story.Of.Terror.2013.PT.ENG.720p.BluRay.x264-UT.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="2",Up Altamente
+https://cld.pt/dl/download/c64aacb9-6720-46fd-92c4-34fe54d7db6d/Up.Altamente.2009.PT.ENG.720p.BRRip.x264.x264-vmf012.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BN2I5YzFlYWEtZjRhNy00ZmQzLWJhNTktZGIwYjFjODdmNDgxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="2",Madagascar
+https://cld.pt/dl/download/87f2ac4e-04e8-40c8-971d-eedccd22f5c5/Madagascar.2005.PT.ENG.720p.BluRay.x264-iNViNCiBLE.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjExMDA4NDcwMl5BMl5BanBnXkFtZTcwODAxNTQ3MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="2",Madagascar: Escape 2 Africa
+https://cld.pt/dl/download/7a7cfe7b-70e8-463d-83db-f175862c420f/Madagascar.2.2008.PT.ENG.720p.BluRay.x264-iNViNCiBLE.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTM2MTIzNzk2MF5BMl5BanBnXkFtZTcwMDcwMzQxNw@@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="2",Madagascar 3: Europe's Most Wanted
+https://cld.pt/dl/download/1e9f76d5-6019-4bb8-8f5f-4f510ba19034/Madagascar.3.2012.PT.ENG.720p.BluRay.x264-iNViNCiBLE.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://img.olx.pt/images_olxpt/898462769_1_644x461_minions-melhores-curtas-de-animao-dvd-lisboa.jpg" type="MOVIE" parent_id="2",Minions curtas
+https://cld.pt/dl/download/e5f9ad39-735e-4f93-b5b4-5b4eed37f33d/Minions%20curtas.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0NzI0NjQ5MV5BMl5BanBnXkFtZTYwNjkyNDg5._V1_UY268_CR3,0,182,268_AL_.jpg" type="MOVIE" parent_id="2",O Mundo Mágico de Bela
+https://cld.pt/dl/download/12687779-8575-4b15-97ac-28bcf7ab5cd0/O.Mundo.M%C3%A1gico.de.Bela.1998.PT.ENG.DVDRip.XviD.AC3-vmf012.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ0NDg3MjU2OV5BMl5BanBnXkFtZTYwODgyMDg5._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="2",O Planeta do Tesouro
+https://cld.pt/dl/download/2d44d19a-e538-472d-bb1a-231d79c543cd/O.Planeta.do.Tesouro.%28falado%20PT-PT%29.by.AJMS.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMzY4MDA2NjM2NV5BMl5BanBnXkFtZTgwOTcwODM2OTE@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="2",O Principezinho
+https://cld.pt/dl/download/3424e4fd-d950-4d87-945a-a0ecd0cf4530/O.Principezinho.2015.PT.ENG.720p.BRRip.x264.AC3-vmf012.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwMjI1MDIzMl5BMl5BanBnXkFtZTcwMTM4Nzc5Nw@@._V1_UY268_CR10,0,182,268_AL_.jpg" type="MOVIE" parent_id="2",Sininho O Segredo da Fadas
+https://cld.pt/dl/download/112724fc-641b-4048-aa28-8ab7ed939cbd/Sininho.O.Segredo.das.Fadas.2012.PT.ENG.480p.BRRip.XviD.AC3-iNViNCiBLE.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNThmZGY4NzgtMTM4OC00NzNkLWEwNmEtMjdhMGY5YTc1NDE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="2",Uma Vida de Insecto
+https://cld.pt/dl/download/9b856087-83a5-4c09-96e9-8ee119e2c011/Uma.Vida.de.Insecto.1998.PT.ENG.DVDRip.XviD.AC3-vmf012.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.imdb.com/title/tt0097757/mediaviewer/rm3406433792?ref_=tt_ov_i" type="MOVIE" parent_id="2",A Pequena Sereia
+https://cld.pt/dl/download/00ba5b98-411d-4842-ac9a-25a63b78688a/A.Pequena.Sereia.DVDRip.Audio.PT-PT_.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyOTQ5NzAzNl5BMl5BanBnXkFtZTcwMTcyNTU1Mg@@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="2",A Princesa e o Sapo
+https://cld.pt/dl/download/bf6620ba-b94a-4b1e-aec1-42c887e9a935/A.Princesa.e.o.Sapo.2009.PT.ENG.DVDRip.XviD.AC3-UT.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5NTc5NTEzN15BMl5BanBnXkFtZTcwMTAwNTcyMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="2",Aladdin-O Regresso de Jafar
+https://cld.pt/dl/download/418d6e4f-8b73-4ebe-b56d-46e7d5990e2f/Aladdin-O.Regresso.de.Jafar.1994.PT.ENG.720p.BRRip.x264.AC3-vmf012%7E1.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0ODM0MjI2OV5BMl5BanBnXkFtZTcwMDAwNTcyMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="2",Aladdin e o Rei dos Ladrões
+https://cld.pt/dl/download/a2a552d5-7629-4016-af90-a635b6482545/Aladdin.e.o.Rei.dos.Ladr%C3%B5es.20140531_191358.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNTI4ODQ1MzAzNV5BMl5BanBnXkFtZTgwMzU4NzMxMDE@._V1_UY268_CR9,0,182,268_AL_.jpg" type="MOVIE" parent_id="2",Aladdin Special Edition
+https://cld.pt/dl/download/176ffd83-b108-4ba1-89c6-08aef6fbdee8/Aladdin.Special.Edition.20140531_003255.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTMwNjAxMTc0Nl5BMl5BanBnXkFtZTcwODc3ODk5Mg@@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="7",Alice no País das Maravilhas
+https://cld.pt/dl/download/bee9badb-4e44-4c93-9a16-d350fd2775a4/Alice.no.Pa%C3%ADs.das.Maravilhas.1951.XviD.MP3.Audio.PT-PT.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwMzE2Mzc4M15BMl5BanBnXkFtZTcwMTE4NTc1Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="2",Branca de Neve
+https://cld.pt/dl/download/89bc4ad4-0d5d-4762-8794-0372d954a097/Branca.de.Neve.1939.DVDRip.XviD.MP3.Audio.PT-PT.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="3",Captain America
+https://cld.pt/dl/download/baa077e5-4253-49f0-85e4-5a9dd7fc8341/Captain.America.2011.720p.BrRip.x264.YIFY.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="3",Capitão América: Guerra Civil
+https://cld.pt/dl/download/f78886c0-79b8-47bc-a7b7-2f61ebd1af59/Captain.America.Civil.War.2016.720p.BluRay.x264-%5BYTS.AG%5D.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMzA2NDkwODAwM15BMl5BanBnXkFtZTgwODk5MTgzMTE@._V1_UY268_CR1,0,182,268_AL_.jpg" type="MOVIE" parent_id="3",Capitão América: O Soldado do Inverno
+https://cld.pt/dl/download/16226872-1507-4d9f-85d2-ca8ca2d70d08/Captain.America.The.Winter.Soldier.2014.720p.BluRay.x264.YIFY.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjQyODg5Njc4N15BMl5BanBnXkFtZTgwMzExMjE3NzE@._V1_UY268_CR1,0,182,268_AL_.jpg" type="MOVIE" parent_id="3",Deadpool
+https://cld.pt/dl/download/1b493273-742a-44cc-afc4-021cf897ca4f/Deadpool.2016.720p.BluRay.x264-%5BYTS.AG%5D.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2MTMyMzU0M15BMl5BanBnXkFtZTgwOTU3ODk4NTE@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="2",minions
+https://cld.pt/dl/download/92f9ad8c-2c5b-4c79-9efa-4327b4681908/minions.2015.PT.ENG.DVDRip.XviD.AC3-vmf012.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BZmYxNjE2M2UtYzJhOC00MzVlLWJhM2ItYzkzZWJkZWFhNTE1L2ltYWdlXkEyXkFqcGdeQXVyMzMyODMwMTI@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="2",O Corcunda de Notre Dame
+https://cld.pt/dl/download/ea3fa9b8-c458-4e9d-897e-4edc7cf37c31/O%20Corcunda.de.Notre.Dame.1996.PORTUGUESE.DVDRip.XviD-GiQ.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQxODA5MDkyNV5BMl5BanBnXkFtZTgwMDMyNjkzMjE@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="2",Os Monstros das Caixas
+https://cld.pt/dl/download/c73c2878-7362-43c3-aa2b-05b8e2fa779d/Os.Monstros.das.Caixas.2014.PT.ENG.BRRip.XviD.AC3-iFT.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BY2ZiYWUxN2ItYmQxZi00NDlkLWE2NDAtOTNmYTg1MDI0NDk1XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="2",Tarzan
+https://cld.pt/dl/download/9e5dab6c-12a8-4270-a53f-f2b8e7db622a/Tarzan.1.%281999%29.Xvid.AC3.DVDRip-GoRDo.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0NzMzODc2NF5BMl5BanBnXkFtZTgwOTYzNTM1MzE@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="4",The Babadook
+https://cld.pt/dl/download/bc5daa52-e55a-419c-9e78-a1e93200e316/The.Babadook.2014.720p.BluRay.x264.YIFY-por.mkv
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="2",WALL-E
+https://cld.pt/dl/download/663372d6-2853-4e65-95b6-894e0e2f60b9/WALL-E.mkv
+
 
 
 
