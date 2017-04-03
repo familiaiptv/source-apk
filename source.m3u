@@ -445,9 +445,6 @@ https://lh3.googleusercontent.com/nH4WcmwSj-Fd93N1fraUxL7hMtAeT8jq708gz9DlSO2z93
 #EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img2.acsta.net/newsv7/16/04/26/22/24/190958.jpg" type="MOVIE" parent_id="4",Cell
 https://lh3.googleusercontent.com/qLEq2emBDUz1po7NaNCU_dm5EuPZBb2WzNIfOA9c1aaTKFFXnk8R50CayPJWKSv6qsNXUU7c=m22
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img3.acsta.net/pictures/16/03/23/16/26/007949.jpg" type="MOVIE" parent_id="5",Vizinhos 2
-https://lh3.googleusercontent.com/-VfluLbnBKhMspcThuBoSsoQDj9Ha2Vnb4uaInYeNkhKSTNLymX49wnowISh9RTXTYjMhu8n=m22
-
 #EXTINF:-1 ext_id="teste"tvg-logo="http://www.gstatic.com/tv/thumb/movieposters/12966120/p12966120_p_v8_aa.jpg" type="MOVIE" parent_id="1" parent_id="6", Electra Woman and Dyna Girl
 https://lh3.googleusercontent.com/NeYOEA5aZZuwV2xbsu-ESIfC-6WBQvwDL3a4cuGk6THdTEKs4hufKVbXN_bY2oGg0R_XsNGE=m22
 
@@ -793,7 +790,7 @@ https://cld.pt/dl/download/ce81562e-440a-482c-b8da-19cc1a440b91/Zootopia.2016.PO
 #EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Batman_v_Superman_poster.jpg" type="MOVIE" parent_id="3", Batman Vs Superman Dawn Of Justice
 https://cld.pt/dl/download/d5609528-b293-450c-9738-cd5f40b29f7c/Batman.V.Superman.Dawn.Of.Justice.2016.720p.BluRay.x264-%5BYTS.AG%5D.mkv
 
-#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjI0NTEyMjA3NV5BMl5BanBnXkFtZTgwODk5OTU4OTE@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="5",Blair Witch
+#EXTINF:-1 ext_id="teste"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjI0NTEyMjA3NV5BMl5BanBnXkFtZTgwODk5OTU4OTE@._V1_UX182_CR0,0,182,268_AL_.jpg" type="MOVIE" parent_id="5", Blair Witch
 https://cld.pt/dl/download/d8ef3764-0b76-47ba-84f3-4f0ca2fb0592/Blair.Witch.2016.720p.BluRay.x264-%5BYTS.AG%5D.mkv
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/16/06/28/17/51/061145.jpg" type="MOVIE" parent_id="6",Bridget Jones's Baby
