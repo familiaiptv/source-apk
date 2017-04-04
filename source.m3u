@@ -262,6 +262,9 @@ http://google.pt
 #EXTINF:-1 ext_id="rtp1.pt" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/1/1a/Motogp-old-logo.png" type="ACESTREAM" group_id="4",MOTOGP
 http://google.pt
 
+#EXTINF:-1 ext_id="rtp1.pt" tvg-logo="https://cld.pt/dl/download/2165af63-e498-42cf-ab8c-2a4a991f0bcd/unnamed.png" type="ACESTREAM" group_id="5",Sport.TV
+http://google.pt
+
 #EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/TV_Guide_Logo.png" type="ACESTREAM" parent_id="1",ARENAVISION GUIA DE TV
 http://arenavision.ru/schedule?browser=1
 
@@ -390,6 +393,24 @@ acestream://7b895e1f84448594b018e41afe39c5514ca91025
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM" parent_id="1",Channel 30
 acestream://58fb70baae34d2ba94b0ba6c8021bf2547de6e47
+
+#EXTINF:-1 ext_id="408"tvg-logo="http://www.thelogodb.com/images/media/logo/vqrwpt1481664823.png/medium" type="ACESTREAM" parent_id="5",SPORT.TV + HD
+acestream://861bbba2263bf0707ce223e4933b79db6b48b018
+
+#EXTINF:-1 ext_id="151"tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium" type="ACESTREAM" parent_id="5",SPORT.TV 1 HD
+acestream://fb69958f116fdcae056d0ce73619251c57fc203f
+
+#EXTINF:-1 ext_id="152"tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" type="ACESTREAM" parent_id="5",SPORT.TV 2 HD
+acestream://98410bb46b09fa5e77059ed5c371dd5a9f87712a
+
+#EXTINF:-1 ext_id="153"tvg-logo="https://www.thelogodb.com/images/media/logo/wwsuqv1470409839.png/medium" type="ACESTREAM" parent_id="5",SPORT.TV 3 HD
+acestream://9e750884d765dc2d87e8650d9180da7b0cad1a15
+
+#EXTINF:-1 ext_id="10"tvg-logo="https://www.thelogodb.com/images/media/logo/vuytwx1470409983.png/medium" type="ACESTREAM" parent_id="5",SPORTTV 4 HD
+acestream://90e0c453296d3608b48b5829663d1432d5924bcf
+
+#EXTINF:-1 ext_id="112"tvg-logo="https://www.thelogodb.com/images/media/logo/vvvqxp1470408443.png/medium" type="ACESTREAM" parent_id="5",SPORTTV 5 HD
+acestream://f60367b0ada5815bd2349b78fe11ce68cac0363b
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://www.wmoc2008.fpo.pt/logos/logo_94FM.jpg" type="RADIO",94 FM
 http://195.8.58.150:35022/;stream.mp3
