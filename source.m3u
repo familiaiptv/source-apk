@@ -193,6 +193,9 @@ http://ip.cs4ip.com:8000/live/zero99/zero99/4474.m3u8
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/wuyqur1434267176.png/medium" parent_id="7",EUROSPORT UK
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/vspsqp1444912735.png/medium" parent_id="7",EUROSPORT 2 UK
+http://176.25.31.103:8001/1:0:1:1651:7E7:2:11A0000:0:0:0::410
+
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/tyqypy1433965234.png/medium" parent_id="7",Sky Sport F1 HD
 http://78.129.239.105:8080/je3nNaM00tAaSekiyyef00ne/Strm/index.m3u8
 
@@ -236,7 +239,7 @@ http://176.25.31.103:8001/1:0:1:1581:7EA:2:11A0000:0:0:0::403
 http://176.25.31.103:8001/1:0:1:1581:7EA:2:11A0000:0:0:0::404
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/ruuwux1433965299.png/medium" parent_id="7",Sky Sport 5
-http://176.25.31.103:8001/1:0:1:1581:7EA:2:11A0000:0:0:0::402
+http://176.25.31.103:8001/1:0:1:1581:7EA:2:11A0000:0:0:0::405
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/yqvwrs1433428383.png/medium" parent_id="4",VH1 EUROPE
 http://89.38.8.130:39455
