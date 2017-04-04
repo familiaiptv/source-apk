@@ -223,6 +223,12 @@ http://78.129.239.105:8080/je3nNaM00tAaemyou0T/Strm/tracks-v1a1/index.m3u8
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/ruvrus1437612002.png/medium" parent_id="7",SPORTV
 http://5.79.68.138:8081/look/sportv/playlist.m3u8
 
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.thelogodb.com/images/media/logo/j5gg3v1489866167.png/medium" parent_id="7",Sky Sport
+http://176.25.31.103:8001/1:0:1:1076:7E5:2:11A0000:0:0:0::401
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/qtwryv1433965251.png/medium" parent_id="7",Sky Sport 2
+http://176.25.31.103:8001/1:0:1:1581:7EA:2:11A0000:0:0:0::402
+
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/yqvwrs1433428383.png/medium" parent_id="4",VH1 EUROPE
 http://89.38.8.130:39455
 
