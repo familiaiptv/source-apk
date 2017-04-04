@@ -9,6 +9,9 @@ Http://google.pt
 #EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/6229ac75-23b4-40b8-b663-471be537a197/Animation_icon-icons.com_61707.png" group_id="3",ANIMAÇÃO
 Http://google.pt
 
+#EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/59274597-ef12-4410-b27a-fe76b7d056ae/TEMP.png" group_id="4",MÚSICA
+Http://google.pt
+
 #EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/16d6dc96-59fb-4c76-9649-6e3193a85b0c/DESPORTO.png" group_id="5",DESPORTO
 Http://google.pt
 
@@ -160,8 +163,10 @@ http://ip.cs4ip.com:8000/live/zero99/zero99/4509.m3u8
 #EXTINF:-1 ext_id="35"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" parent_id="3",BABY TV
 http://62.167.50.245:8000/play/a012
 
+#EXTINF:-1 ext_id="35"tvg-logo="https://www.thelogodb.com/images/media/logo/xxvsqx1470691469.png/medium" parent_id="3",TV ESCOLA
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
+
 #EXTINF:-1 ext_id="teste"tvg-logo="http://www.shoppingconquistasul.com.br/wp-content/uploads/2014/10/zigzagplay-nova-250x180.png" parent_id="3",ZIG ZAG
-https://streaming-live.rtp.pt/liverepeater/smil:zigzag.smil/familiaiptv.m3u8
 
 #EXTINF:-1 ext_id="151"tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium" parent_id="5" ,SPORT TV 1 HD (temp)
 http://ip.cs4ip.com:8000/live/zero99/zero99/4490.m3u8
@@ -211,6 +216,18 @@ http://78.129.239.105:8080/je3nNaM00tAaAier33Naa-5/Strm/index.m3u8
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/rpxxqy1433779967.png/medium" parent_id="7",Manchester United
 http://78.129.239.105:8080/je3nNaM00tAaemyou0T/Strm/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/xqwpww1436887616.png/medium" parent_id="7",Real Madrid Tv
+http://78.129.239.105:8080/je3nNaM00tAaemyou0T/Strm/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/yqvwrs1433428383.png/medium" parent_id="4",VH1 EUROPE
+http://89.38.8.130:39455
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.thelogodb.com/images/media/logo/rpuyvs1478249524.png/medium" parent_id="4",M6 MUSIQUE
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+
+#EXTINF:-1 ext_id="409"tvg-logo="https://www.thelogodb.com/images/media/logo/tusvrr1436893817.png/medium" parent_id="4",MEZZO
+http://ott2.odessa.tv:7321/index.php?channel=197&key_ott=5f7690fd0bd330afafb91f331adc46dd
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM" group_id="1",ARENAVISION
 http://google.pt
