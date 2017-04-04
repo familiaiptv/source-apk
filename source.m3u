@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/31d5c76b-55b4-455d-88fb-0bf13299857d/genericos.png" group_id="1",GENÉRICOS 1
+#EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/31d5c76b-55b4-455d-88fb-0bf13299857d/genericos.png" group_id="1",GENÉRICOS
 Http://google.pt
 
 #EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/51346dff-f8c9-47c4-9793-a12f95c3fb3d/FILMES.png" group_id="2",FILMES
@@ -166,7 +166,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:zigzag.smil/familiaiptv.m3u8
 #EXTINF:-1 ext_id="151"tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium" parent_id="5" ,SPORT TV 1 HD (temp)
 http://ip.cs4ip.com:8000/live/zero99/zero99/4490.m3u8
 
-#EXTINF:-1 ext_id="151"tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium" parent_id="5",SPORT TV 1 HD (temp2)
+#EXTINF:-1 ext_id="151"tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium" parent_id="5",SPORT TV 1
 http://62.167.50.245:8000/play/a037
 
 #EXTINF:-1 ext_id="152"tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" parent_id="5",SPORTTV 2 HD
