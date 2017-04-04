@@ -265,6 +265,9 @@ http://google.pt
 #EXTINF:-1 ext_id="rtp1.pt" tvg-logo="https://cld.pt/dl/download/2165af63-e498-42cf-ab8c-2a4a991f0bcd/unnamed.png" type="ACESTREAM" group_id="5",Sport.TV
 http://google.pt
 
+#EXTINF:-1 ext_id="rtp1.pt" tvg-logo="https://pbs.twimg.com/profile_images/3085874404/2647cc712f0673100b0e3eca81c94be5_400x400.png" type="ACESTREAM" group_id="6",Sky Sports
+http://google.pt
+
 #EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/TV_Guide_Logo.png" type="ACESTREAM" parent_id="1",ARENAVISION GUIA DE TV
 http://arenavision.ru/schedule?browser=1
 
@@ -411,6 +414,24 @@ acestream://90e0c453296d3608b48b5829663d1432d5924bcf
 
 #EXTINF:-1 ext_id="112"tvg-logo="https://www.thelogodb.com/images/media/logo/vvvqxp1470408443.png/medium" type="ACESTREAM" parent_id="5",SPORTTV 5 HD
 acestream://f60367b0ada5815bd2349b78fe11ce68cac0363b
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/tyqypy1433965234.png/medium" type="ACESTREAM" parent_id="6",Sky Sport 1
+acestream://49429150001fb998bda34055b4b21cd10482ac8f
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/qtwryv1433965251.png/medium" type="ACESTREAM" parent_id="6",Sky Sport 2
+acestream://8a8527be0b4f30bc4e568eb976c62546ae3ed87f
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/vtusxx1433965268.png/medium" type="ACESTREAM" parent_id="6",Sky Sport 3
+acestream://3f6fa5b79bd239364e81d299cc03fcf4bba4a82b
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/vwqrvq1433965284.png/medium" type="ACESTREAM" parent_id="6",Sky Sport 4
+acestream://9d3d5f17c8823599f178dfbab8c5247bf518657d
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/ruuwux1433965299.png/medium" type="ACESTREAM" parent_id="6",Sky Sport 5
+acestream://0a58e5a154cf3097f6eca5387b28e7776e43b1cc
+
+#EXTINF:-1 ext_id="teste"tvg-logo="http://www.thelogodb.com/images/media/logo/7vbmvf1486146156.png/medium" type="ACESTREAM" parent_id="6",Sky Sport F1
+acestream://c6469fe5c077142811e3efd72d5b27097aedf3d2
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://www.wmoc2008.fpo.pt/logos/logo_94FM.jpg" type="RADIO",94 FM
 http://195.8.58.150:35022/;stream.mp3
