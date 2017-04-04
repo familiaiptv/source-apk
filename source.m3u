@@ -268,6 +268,9 @@ http://google.pt
 #EXTINF:-1 ext_id="rtp1.pt" tvg-logo="https://pbs.twimg.com/profile_images/3085874404/2647cc712f0673100b0e3eca81c94be5_400x400.png" type="ACESTREAM" group_id="6",Sky Sports
 http://google.pt
 
+#EXTINF:-1 ext_id="rtp1.pt" tvg-logo="http://www.soccerpunter.com/images/gsm/teams/150x150/1534.png" type="ACESTREAM" group_id="7",Desporto Internacional
+http://google.pt
+
 #EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/TV_Guide_Logo.png" type="ACESTREAM" parent_id="1",ARENAVISION GUIA DE TV
 http://arenavision.ru/schedule?browser=1
 
@@ -432,6 +435,15 @@ acestream://0a58e5a154cf3097f6eca5387b28e7776e43b1cc
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://www.thelogodb.com/images/media/logo/7vbmvf1486146156.png/medium" type="ACESTREAM" parent_id="6",Sky Sport F1
 acestream://c6469fe5c077142811e3efd72d5b27097aedf3d2
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/tsqstw1436894693.png/medium" type="ACESTREAM" parent_id="7",PFC PT
+acestream://5c06b5a1bfab8dea71ab3ad151801beb0c06330a
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/ruvrus1437612002.png/medium" type="ACESTREAM" parent_id="6",Sportv
+acestream://b0260e13901ea18a36cc65134b04cace85671fbc
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/rspqxw1437612159.png/medium" type="ACESTREAM" parent_id="6",Sportv 2
+acestream://0b329ac89cf80cd30136a847b07dd77a0294de6b
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://www.wmoc2008.fpo.pt/logos/logo_94FM.jpg" type="RADIO",94 FM
 http://195.8.58.150:35022/;stream.mp3
