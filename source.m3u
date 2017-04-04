@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/31d5c76b-55b4-455d-88fb-0bf13299857d/genericos.png" group_id="1",GENÉRICOS
+#EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/31d5c76b-55b4-455d-88fb-0bf13299857d/genericos.png" group_id="1",GENÉRICOS 1
 Http://google.pt
 
 #EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/51346dff-f8c9-47c4-9793-a12f95c3fb3d/FILMES.png" group_id="2",FILMES
