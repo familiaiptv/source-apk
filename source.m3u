@@ -185,7 +185,6 @@ http://ip.cs4ip.com:8000/live/zero99/zero99/4474.m3u8
 
 #EXTINF:-1 ext_id="231"tvg-logo="https://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium" parent_id="5", Benfica Tv (temp3)
 
-
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/wuyqur1434267176.png/medium" parent_id="7",EUROSPORT UK
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 
@@ -212,19 +211,6 @@ http://78.129.239.105:8080/je3nNaM00tAaAier33Naa-5/Strm/index.m3u8
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/rpxxqy1433779967.png/medium" parent_id="7",Manchester United
 http://78.129.239.105:8080/je3nNaM00tAaemyou0T/Strm/tracks-v1a1/index.m3u8
-
-
-#EXTINF:-1 ext_id="408"tvg-logo="http://www.thelogodb.com/images/media/logo/vqrwpt1481664823.png/medium",SPORTTV + HD				 
-
-#EXTINF:-1 ext_id="151"tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium",SPORTTV 1 HD
-
-#EXTINF:-1 ext_id="152"tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png",SPORTTV 2 HD
-
-#EXTINF:-1 ext_id="153"tvg-logo="https://www.thelogodb.com/images/media/logo/wwsuqv1470409839.png/medium",SPORTTV 3 HD
-
-#EXTINF:-1 ext_id="153"tvg-logo="https://www.thelogodb.com/images/media/logo/vuytwx1470409983.png/medium",SPORTTV 4 HD
-
-#EXTINF:-1 ext_id="112"tvg-logo="https://www.thelogodb.com/images/media/logo/uvpqvr1470410094.png/medium",SPORTTV 5
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://tvron.net/static/canal/arenavision.png" type="ACESTREAM" group_id="1",ARENAVISION
 http://google.pt
