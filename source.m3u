@@ -447,10 +447,10 @@ acestream://b1b7157706abbfffc32aabaf8d07b4d89763d045
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/xstwys1438373796.png/medium" type="ACESTREAM" parent_id="7",BT SPORTS ESPN
 acestream://14ca2cdab58401c722254fccb67dcc7a3ef10fca
 
-#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/ruvrus1437612002.png/medium" type="ACESTREAM" parent_id="6",Sportv
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/ruvrus1437612002.png/medium" type="ACESTREAM" parent_id="7",Sportv
 acestream://b0260e13901ea18a36cc65134b04cace85671fbc
 
-#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/rspqxw1437612159.png/medium" type="ACESTREAM" parent_id="6",Sportv 2
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/rspqxw1437612159.png/medium" type="ACESTREAM" parent_id="7",Sportv 2
 acestream://0b329ac89cf80cd30136a847b07dd77a0294de6b
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://www.wmoc2008.fpo.pt/logos/logo_94FM.jpg" type="RADIO",94 FM
