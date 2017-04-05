@@ -453,6 +453,9 @@ acestream://b0260e13901ea18a36cc65134b04cace85671fbc
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/rspqxw1437612159.png/medium" type="ACESTREAM" parent_id="7",Sportv 2
 acestream://0b329ac89cf80cd30136a847b07dd77a0294de6b
 
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/yuusqs1437612244.png/medium" type="ACESTREAM" parent_id="7",Sportv 3
+acestream://4803c70664a5fe48e4aa2874b1da2a1c5923eddd
+
 #EXTINF:-1 ext_id="teste"tvg-logo="http://www.wmoc2008.fpo.pt/logos/logo_94FM.jpg" type="RADIO",94 FM
 http://195.8.58.150:35022/;stream.mp3
 
