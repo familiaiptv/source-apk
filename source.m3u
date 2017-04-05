@@ -433,6 +433,18 @@ acestream://c6469fe5c077142811e3efd72d5b27097aedf3d2
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/tsqstw1436894693.png/medium" type="ACESTREAM" parent_id="7",PFC PT
 acestream://5c06b5a1bfab8dea71ab3ad151801beb0c06330a
 
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/yqvvvx1433963709.png/medium" type="ACESTREAM" parent_id="7",BT SPORTS 1HD UK
+acestream://2bb040a6908cfaa274240e61e3fadc52554b98d9
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/vsuvvu1433963716.png/medium" type="ACESTREAM" parent_id="7",BT SPORTS 2HD UK
+acestream://d405b21b24a23e0e6e951951f6079fdc6c3e6979
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/btsporteuropehdblack.png" type="ACESTREAM" parent_id="7",BT SPORTS 3HD UK
+acestream://b1b7157706abbfffc32aabaf8d07b4d89763d045
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/xstwys1438373796.png/medium" type="ACESTREAM" parent_id="7",BT SPORTS ESPN
+acestream://14ca2cdab58401c722254fccb67dcc7a3ef10fca
+
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/ruvrus1437612002.png/medium" type="ACESTREAM" parent_id="6",Sportv
 acestream://b0260e13901ea18a36cc65134b04cace85671fbc
 
