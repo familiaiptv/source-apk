@@ -257,7 +257,6 @@ http://google.pt
 http://google.pt
 
 #EXTINF:-1 ext_id="rtp1.pt" tvg-logo="http://www.zerozero.pt/img/logos/competicoes/9_imgbank_tp.png" type="ACESTREAM" group_id="3",Taça de Portugal
-http://google.pt
 
 #EXTINF:-1 ext_id="rtp1.pt" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/1/1a/Motogp-old-logo.png" type="ACESTREAM" group_id="4",MOTOGP
 http://google.pt
@@ -285,12 +284,6 @@ acestream://adc607fbdee2e928193b16483893bfeacaa794ed
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png" type="ACESTREAM" parent_id="2",Arenavision 14
 acestream://4b16e465a2ec93a7a6b8afbeed0632a6c73d25b0
-
-#EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png" type="ACESTREAM" parent_id="3",BENFICA-ESTORIL
-acestream://3c8d7271af9f75d12cd5d8224980fb12039f83cd
-
-#EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png" type="ACESTREAM" parent_id="3",BENFICA-ESTORIL
-acestream://40dc2f7d666c780bbd9d160b33a9d2bfedf9d509
 
 #EXTINF:-1 ext_id="teste"tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/1/1a/Motogp-old-logo.png" type="ACESTREAM" parent_id="4",Arenavision 5
 acestream://7845351b0cf9e72a7f33e8161e1a6c412c18efa9
@@ -439,7 +432,7 @@ acestream://0408535597db04ad72bc647ac3cb61cf6f2a703d
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/uxxtrt1433944508.png/medium" type="ACESTREAM" parent_id="7",Fox Sports 2 BR
 acestream://c871550b2ca519c614eed44d9fb037bc850c56f8
 
-#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/uxxtrt1433944508.png/medium" type="ACESTREAM" parent_id="7",ESPN BR
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/sxvypw1437611411.png/medium" type="ACESTREAM" parent_id="7",ESPN BR
 acestream://4769afb3b1db62cf9346abb73a6f9bf2a22b686f
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/yqvvvx1433963709.png/medium" type="ACESTREAM" parent_id="7",BT SPORTS 1HD UK
