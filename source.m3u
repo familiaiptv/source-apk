@@ -433,6 +433,15 @@ acestream://c6469fe5c077142811e3efd72d5b27097aedf3d2
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/tsqstw1436894693.png/medium" type="ACESTREAM" parent_id="7",PFC PT
 acestream://5c06b5a1bfab8dea71ab3ad151801beb0c06330a
 
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/uyusws1446157799.png/medium" type="ACESTREAM" parent_id="7",Fox Sports BR
+acestream://0408535597db04ad72bc647ac3cb61cf6f2a703d
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/uxxtrt1433944508.png/medium" type="ACESTREAM" parent_id="7",Fox Sports 2 BR
+acestream://c871550b2ca519c614eed44d9fb037bc850c56f8
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/uxxtrt1433944508.png/medium" type="ACESTREAM" parent_id="7",ESPN BR
+acestream://4769afb3b1db62cf9346abb73a6f9bf2a22b686f
+
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/yqvvvx1433963709.png/medium" type="ACESTREAM" parent_id="7",BT SPORTS 1HD UK
 acestream://2bb040a6908cfaa274240e61e3fadc52554b98d9
 
