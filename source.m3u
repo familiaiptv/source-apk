@@ -286,12 +286,6 @@ acestream://adc607fbdee2e928193b16483893bfeacaa794ed
 #EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png" type="ACESTREAM" parent_id="2",Arenavision 14
 acestream://4b16e465a2ec93a7a6b8afbeed0632a6c73d25b0
 
-#EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png" type="ACESTREAM" parent_id="3",CHAVES-VITORIA GUIMARAES
-acestream://adc607fbdee2e928193b16483893bfeacaa794ed
-
-#EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png" type="ACESTREAM" parent_id="3",CHAVES-VITORIA GUIMARAES
-acestream://4b16e465a2ec93a7a6b8afbeed0632a6c73d25b0
-
 #EXTINF:-1 ext_id="teste"tvg-logo="http://www.ceroacero.es/img/logos/edicoes/70079_imgbank_.png" type="ACESTREAM" parent_id="3",BENFICA-ESTORIL
 acestream://3c8d7271af9f75d12cd5d8224980fb12039f83cd
 
