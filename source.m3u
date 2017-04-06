@@ -169,11 +169,20 @@ http://ip.cs4ip.com:8000/live/zero99/zero99/4490.m3u8
 #EXTINF:-1 ext_id="151"tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium" parent_id="5",SPORT TV 1
 http://62.167.50.245:8000/play/a037
 
+#EXTINF:-1 ext_id="151"tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium" parent_id="5",SPORT TV 1 Low SD
+http://live1.livetvindia.co.in:8000/live/3333333333333333333/2222222222222222222222222222/324.ts?coms
+
 #EXTINF:-1 ext_id="152"tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" parent_id="5",SPORTTV 2 HD
 http://62.167.50.245:8000/play/a01z
 
+#EXTINF:-1 ext_id="152"tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" parent_id="5",SPORTTV 2 Low SD
+http://live1.livetvindia.co.in:8000/live/3333333333333333333/2222222222222222222222222222/325.ts?coms
+
 #EXTINF:-1 ext_id="153"tvg-logo="https://www.thelogodb.com/images/media/logo/wwsuqv1470409839.png/medium" parent_id="5",SPORTTV 3
 http://62.167.50.245:8000/play/a025
+
+#EXTINF:-1 ext_id="153"tvg-logo="https://www.thelogodb.com/images/media/logo/wwsuqv1470409839.png/medium" parent_id="5",SPORTTV 3 Low SD
+http://live1.livetvindia.co.in:8000/live/3333333333333333333/2222222222222222222222222222/326.ts?coms
 
 #EXTINF:-1 ext_id="153"tvg-logo="https://www.thelogodb.com/images/media/logo/vuytwx1470409983.png/medium" parent_id="5",SPORTTV 4
 http://62.167.50.245:8000/play/a01c
