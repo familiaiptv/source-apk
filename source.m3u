@@ -205,18 +205,28 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_18
 http://78.129.239.105:8080/je3nNaM00tAabB3eETtiyiy-2/Strm/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/vsurrv1433781133.png/medium" parent_id="7",Arena Sport 1
+http://78.129.239.105:8080/dAAnD00isJaAnUuuAier33Naa-1/Strm/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/vrqsrx1433781528.png/medium" parent_id="7",Arena Sport 2
+http://78.129.239.105:8080/dAAnD00isJaAnUuuAier33Naa-2/Strm/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/uuqqxq1433781899.png/medium" parent_id="7",Arena Sport 3
+http://78.129.239.105:8080/dAAnD00isJaAnUuuAier33Naa-3/Strm/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/ruprvu1433782524.png/medium" parent_id="7",Arena Sport 4
+http://78.129.239.105:8080/dAAnD00isJaAnUuuAier33Naa-4/Strm/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/upxppt1433783076.png/medium" parent_id="7",Arena Sport 5
+http://78.129.239.105:8080/dAAnD00isJaAnUuuAier33Naa-5/Strm/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/rpxxqy1433779967.png/medium" parent_id="7",Manchester United
+http://78.129.239.105:8080/dAAnD00isJaAnUuuemyou0T/Strm/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/xqwpww1436887616.png/medium" parent_id="7",Real Madrid Tv
+http://78.129.239.105:8080/dAAnD00isJaAnUuureeel-maard/Strm/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/rwpwxr1433377901.png/medium" parent_id="7",Chelsea Tv
+http://78.129.239.105:8080/dAAnD00isJaAnUuucehlsee/Strm/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 ext_id="teste"tvg-logo="https://www.thelogodb.com/images/media/logo/ruvrus1437612002.png/medium" parent_id="7",SPORTV
 http://5.79.68.138:8081/look/sportv/playlist.m3u8
