@@ -1,16 +1,81 @@
 #EXTM3U
 
-#EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/31d5c76b-55b4-455d-88fb-0bf13299857d/genericos.png",Aplicação OFF
+#EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/31d5c76b-55b4-455d-88fb-0bf13299857d/genericos.png" group_id="1",GENÉRICOS
 Http://google.pt
 
-#EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/31d5c76b-55b4-455d-88fb-0bf13299857d/genericos.png",Mais Informações
-Http://google.pt
+#EXTINF:-1 ext_id="171"rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rtysxv1466191624.png/small" parent_id="1",RTP 1
+http://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist_b640000_slpt.m3u8
 
-#EXTINF:-1 ext_id="TESTE" tvg-logo="https://cld.pt/dl/download/31d5c76b-55b4-455d-88fb-0bf13299857d/genericos.png",Perguntar a quem a copiou
-Http://google.pt
+#EXTINF:-1 ext_id="171"rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rtysxv1466191624.png/small" parent_id="1",RTP 1
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/KodiPortugal.pt.m3u8
 
-#EXTINF:-1 ext_id="teste"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/TV_Guide_Logo.png",Robert Silva Link
-https://www.facebook.com/Robertjssilva
+#EXTINF:-1 ext_id="172" tvg-logo="http://www.thelogodb.com/images/media/logo/yvttxv1466191438.png/small" parent_id="1",RTP 2
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/KodiPortugal.pt.m3u8
+
+#EXTINF:-1 ext_id="172" tvg-logo="http://www.thelogodb.com/images/media/logo/yvttxv1466191438.png/small" parent_id="1",RTP 2
+http://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b640000_slpt.m3u8
+
+#EXTINF:-1 ext_id="173" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/small" parent_id="1",SIC (geobloqueado)
+http://live.impresa.pt/live/sic/sic540p.m3u8
+
+#EXTINF:-1 ext_id="173" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/small" parent_id="1", SIC
+http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/FamiliaIptv.m3u8
+
+#EXTINF:-1 ext_id="173" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/small" parent_id="1",SIC (temp)
+http://ip.cs4ip.com:8000/live/zero99/zero99/4531.m3u8
+
+#EXTINF:-1 ext_id="174" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png/small" parent_id="1", TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/FamiliaIPTV.m3u8
+
+#EXTINF:-1 ext_id="413" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/small" parent_id="1",SIC NOTÍCIAS (geobloqueado)
+http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
+
+#EXTINF:-1 ext_id="413" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/small" parent_id="1",SIC NOTÍCIAS
+http://62.167.50.245:8000/play/a01x
+
+#EXTINF:-1 ext_id="3" tvg-logo="http://www.thelogodb.com/images/media/logo/uvtqyy1461670745.png/small" parent_id="1",RTP3
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/KodiPortugal.pt.m3u8
+
+#EXTINF:-1 ext_id="113" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png/small" parent_id="1",TVI24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/FamiliaIPTV.m3u8
+
+#EXTINF:-1 ext_id="39" tvg-logo="http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png/small" parent_id="1",EURONEWS PT
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/27-live.m3u8
+
+#EXTINF:-1 ext_id="CMTV" tvg-logo="https://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png/medium" parent_id="1",CMTV (TEMP)
+http://ip.cs4ip.com:8000/live/zero99/zero99/4477.m3u8
+
+#EXTINF:-1 ext_id="CMTV" tvg-logo="https://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png/medium" parent_id="1",CMTV
+http://62.167.50.245:8000/play/a03v
+
+#EXTINF:-1 ext_id="14" tvg-logo="https://www.thelogodb.com/images/media/logo/ustqwy1436891230.png" parent_id="1", SIC RADICAL
+http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
+
+#EXTINF:-1 ext_id="80" tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/small" parent_id="1",PORTO CANAL 
+http://213.13.26.11:1935/live/portocanal/FamiliaIPTV.m3u8
+
+#EXTINF:-1 ext_id="347" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png/Small"parent_id="1",RTP AÇORES
+
+#EXTINF:-1 ext_id="5" tvg-logo="http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png/Small" parent_id="1",RTP ÁFRICA
+
+#EXTINF:-1 ext_id="3" tvg-logo="http://www.thelogodb.com/images/media/logo/uytxwy1474662801.png" parent_id="1",RTP INTERNACIONAL
+
+#EXTINF:-1 ext_id="342"tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png/Small" parent_id="1",RTP MADEIRA
+
+#EXTINF:-1 ext_id="4"tvg-logo="http://www.thelogodb.com/images/media/logo/ysyyxw1438185870.png/Small" parent_id="1",RTP MEMÓRIA 
+
+#EXTINF:-1 ext_id="39"tvg-logo="http://www.thelogodb.com/images/media/logo/wytsyp1478614643.png/medium" parent_id="1",EURONEWS 
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
+
+#EXTINF:-1 ext_id="155"tvg-logo="https://www.thelogodb.com/images/media/logo/twwwyr1436891006.png" parent_id="1",RECORD NEWS 
+http://streaming57.sitehosting.com.br:1935/redesim/redesim/FamiliaIPTV.m3u8
+
+#EXTINF:-1 ext_id="238"tvg-logo="https://www.thelogodb.com/images/media/logo/xrpwsp1436890926.png/medium" parent_id="1",TV RECORD 
+http://62.167.50.245:8000/play/a00v
+
+#EXTINF:-1 ext_id="387"tvg-logo="https://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png/medium" parent_id="1",DISCOVERY CHANNEL 
+http://62.167.50.245:8000/play/a022
+
 
 
 
